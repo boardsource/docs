@@ -1,3 +1,16 @@
+---
+title: How To Flash A Keyboard with qmk
+description: How To Flash A Keyboard using qmk tool box.
+author: Boardsource
+product_link: https://boardsource.xyz/store/628b95b494dfa308a6581622
+subcategory: easy
+draft: false
+tags: 
+- qmk
+- flashing
+banner: https://boardsource.imgix.net/3f11ba0e-4a8f-4dd6-894d-4e275a073c4c.jpg
+thumbnail: https://boardsource.imgix.net/f2a7c864-074e-406f-9c23-1d26813114e4.jpg?auto=format&ixlib=react-9.2.0&q=80&w=200&dpr=1
+---
 # Overview
 
 In this guide you will learn the ins and outs of flashing a keyboard using the QMK configurator. QMK is an open-source project and is really the cornerstone of the hobbyist keyboard community. Whereas “big brand” keyboards (think Corsair, Razer, etc.) ship with their own proprietary software to map keys, setup macros, and change lighting, that is a gargantuan task for your average keyboard-creator and maker. QMK offers the community a great way to centralize keyboard mapping and flashing, and the entire community has QMK to thank for so much. Additionally, the team behind QMK does an absolutely amazing job of reviewing what is included in QMK and that results in an incredibly fluid experience using it, where frustration is low, and things just work. I love QMK.
