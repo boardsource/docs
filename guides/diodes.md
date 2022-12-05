@@ -13,24 +13,31 @@
 
 ## What is a diode
 A diode is a very simple fundamental electronic component.
-So what a diode does is only alow electricity to flow in one direction.(sometimes it almost never lets it flow ).
-To that point a little out of scope of this article but they will alow electricity flow in the other direction when pushed hard enough see more in [other uses in keyboards](#other-uses-in-keyboards). But lets continue to the next section in seeing why we would only want electricity to flow in one direction. 
+
+So what a diode does is only alow electricity to flow in one direction.
+They will alow electricity flow in the other (wrong) direction when pushed hard enough.
+
+(For completeness I will add that there are some diodes that almost never lets electricity flow ) that tidbit is a little out of scope of this article.
+More info in [other uses in keyboards](#other-uses-in-keyboards). 
+But lets continue to the next section in seeing why we would only want electricity to flow in one direction. 
 
 ## Why we use them
 
 ![The keyboard matrix](https://v2serverstorage.s3.us-west-1.amazonaws.com/diode+matrix.jpg)
 
-So in our standard keyboard matrix we have one diode per keyswitch and that is connected the the row and the key switch.
-Then the other pin of a switch is connected to the the column.
+So in our standard keyboard matrix we have one diode per keyswitch that is connected the the row on one side and the key switch on the other.
+The other pin of a switch is connected to the the column.
+
 Each row is connected to one pin on our microcontroller, and each column is connected to a pin.
 So now we know the parts involved and how to wire it but lets talk about why.
+
 So lets make a very simple fantasy firmware call it Foo-MK, in our firmware we need to tell the computer when a key is pressed. 
 So we need to figure that out for our selfs, how do we do this we know that we have a n number of row pins and n number of column pins.
 What we will do is loop over every row and for each row pin pull it high ( meaning that we make that pin output 3.3v or 5v ).
-Next we will scan every column pin and see if any of them are being pulled high ( note we did not set them high so they would default to low o   r 0v). 
+Next we will scan every column pin and see if any of them are being pulled high ( note we did not set them high so they would default to low or 0v). 
 If we then find one that is high we can assume its because the switch at that intersection is being pushed.
 
- Thats all well and good but what does the diode do you my rightly be thinking. Well lets get into an edge case.... well something that may seem like an edge case but happens all the time.
+Thats all well and good but what does the diode do you my rightly be thinking. Well lets get into an edge case.... well something that may seem like an edge case but happens all the time.
 We push 2 keys at the same time ⁀⊙෴☉⁀. 
 Lets go over what would happen if we had no diode, electricity will flow through the switch and out into the rest of the switches pulling unexpected pins high, leading to false presses aka ghosting.
 With our diodes installed we limit the the electricity from flowing backwards and pulling unexpected columns high.
@@ -109,9 +116,11 @@ Now go back and solder the other side of the pad this should be much easier, bec
 ![diode finished](https://user-images.githubusercontent.com/736191/54487438-79cb9900-48d9-11e9-9280-dc72a2087307.jpg)
 
 Good job you did a smd diode, there is nothing to be afraid of they are quite easy and very fast.
+
 -Tip: Do it in batches and solder one pad of every diode first then, place them all, then do the other side.
+
 --Pro tip: If you get your diodes on a tape you can peal back 1cm of the tape and flip it over, hold it down and peal the rest off. 
-Then lift up your tape and all your diodes are on the desk facing the same way, do this correctly oriented to your pcb and you can solder all the diodes in no time,(using this method I do 60 diodes in under 4 min)
+Then lift up your tape and all your diodes are on the desk facing the same way, do this correctly oriented to your pcb and you can solder all the diodes in no time.
 
 ### Through hole
 
