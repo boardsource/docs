@@ -1,4 +1,17 @@
-build_guide_SLAB-V.md
+---
+title: SlabV Build Guide
+description: How to put together your new SlabV solderable kit.
+author: Boardsource
+product_link: https://boardsource.xyz/store/MISSING
+subcategory: medium
+draft: true
+tags: 
+- 30%
+- ergo
+- kit
+banner: https://boardsource.imgix.net/Missing
+thumbnail: https://boardsource.imgix.net/Misssing
+---
 
 ### This guide is for *Slab-V* PCBs.
 https://imgur.com/a/Crzchlb
@@ -44,7 +57,7 @@ you may need to reflow and add more solder a couple times before an adequate con
 - Note, don't hesitate to use a little extra solder, as that will help secure the socket and prevent it from being ripped off.
 
 ## Microcontrollers
-**Orientation**: Both microcontrollers face down.
+**Orientation**: microcontroller face down.
 - Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
 1. Insert headers from front, solder in from the back.
 ![headers inserted](https://imgur.com/HbvlkJG.jpg)
@@ -53,15 +66,6 @@ you may need to reflow and add more solder a couple times before an adequate con
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.
 ![microcontroller finished](https://imgur.com/Qlphzkj.jpg)
-
-## OLEDs
-1. Insert headers from front, solder in from the back.
-![Oled placed](OLEDCLOSEUPIMG1)
-2. Solder only one of pins to begin with.
-![oled back one pin soldered](OLEDCLOSEUPIMG2)
-3. While reflowing solder joint, position OLED so that it is level & straight.
-4. Solder remaining pins and clip extra length of pins.
-![oled finished](OLEDCLOSEUPIMG3)
 
 ## Misc.
 ### Reset switches
