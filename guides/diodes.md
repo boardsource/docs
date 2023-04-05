@@ -1,4 +1,19 @@
- # Welcome to the ultiment diode guide
+---
+title: Ultimate keyboard Diode guide
+description: Everything you could want to know about diodes.
+author: Boardsource
+product_link: https://boardsource.xyz/store/5ec9fc5d64caf04f83aa646c
+subcategory: easy
+draft: false
+tags: 
+- building
+- soldering
+- learning
+banner: https://boardsource.imgix.net/74445bcc-4392-466e-8860-34dc74ba063a.jpg
+thumbnail: https://boardsource.imgix.net/a8ef5531-ebd5-4a97-92d8-9e97e1138c4b.jpg?auto=format&ixlib=react-9.2.0&q=80&w=300&dpr=1
+---
+
+ # Welcome to the ultimate diode guide
 
  By the end of this you should know everything you could ever want to know about diodes when it comes to keyboards.
 

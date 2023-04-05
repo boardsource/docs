@@ -11,6 +11,7 @@ front matter fields we support:
 * title: string
 * description: string
 * author: string
+* source: url
 * product_link: url
 * subcategory: string
 * draft: bool
