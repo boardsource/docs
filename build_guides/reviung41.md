@@ -15,8 +15,9 @@ thumbnail: https://boardsource.imgix.net/3fa9c28c-70af-4ed4-b3d0-f46b64302461.jp
 ---
 
 ## Buildguide
-
+https://reviung.com/build-guide/391/
+http://translate.google.com/translate?hl=bg&ie=UTF-8&u=https://reviung.com/build-guide/391/&sl=de&tl=bg
 <iframe
-  src="https://reviung.com/build-guide/391/"
+  src="http://translate.google.com/translate?hl=bg&ie=UTF-8&u=https://reviung.com/build-guide/391/&sl=de&tl=bg"
   style={{width:"100%",minHeight:"80vh", height:"100%", border: "none"}}
 ></iframe>
