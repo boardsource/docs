@@ -36,7 +36,6 @@ thumbnail: https://boardsource.imgix.net/Misssing
 | USB cable         | 01 | For connecting the keyboard with your PC |
 | Lipo battery      | 02 | You can use a variety of Lipo batteries, but the cutout in the switchplate is meant to be used with a battery which name ends with 2030, like the 902030.
 
-
 ### OPTIONAL PARTS
 
 | Part name              | Count | Remarks | 
