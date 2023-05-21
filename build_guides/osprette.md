@@ -1,3 +1,18 @@
+---
+title: Osprette Build Guide
+description: How to put together your new Osprette solderable kit.
+author: boardsource
+product_link: https://boardsource.xyz/store/5ecc0f81eee64242946c988f
+subcategory: medium
+draft: false
+tags: 
+- 30%
+- ergo
+- kit
+- mono block
+banner: https://i.imgur.com/KANSwLX.jpg
+thumbnail: https://i.imgur.com/KANSwLX.jpg
+---
 # This guide is for *Osprette* PCBs.
 <!-- https://imgur.com/a/8ic5pgW -->
 # Parts
