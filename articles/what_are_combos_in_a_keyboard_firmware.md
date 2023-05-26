@@ -44,4 +44,8 @@ These are some of the keyboard firmwares that support combos. If you are interes
 
 - **Layer-tap**: Layer-tap is a feature that allows you to assign different actions to the same key based on which layer you are in. For example, you can define a layer-tap key that activates KC.LCTL when you are in layer 1, KC.L
 
-- **Hold-tap**: Hold-tap is a feature that allows you to assign different actions to the same key based on how long you hold it. For example, you can define a hold-tap key that activates KC.LCTL when you hold it for 100ms,
+- **Hold-tap**: Hold-tap is a feature that allows you to assign different actions to the same key based on how long you hold it. For example, you can define a hold-tap key that activates KC.LCTL when you hold it for 100ms.
+
+I hope this quick introduction to combos has helped you understand the concept of combos and how they can be used to add functionality to your keyboard. If you have any questions or comments, please feel free to join our [Discord](https://discord.gg/D2wbZWGFMJ) and discuss keyboards and firmware.
+
+Thanks for reading!
