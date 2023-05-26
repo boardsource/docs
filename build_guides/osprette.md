@@ -14,7 +14,7 @@ banner: https://i.imgur.com/KANSwLX.jpg
 thumbnail: https://i.imgur.com/KANSwLX.jpg
 ---
 # This guide is for *Osprette* PCBs.
-<!-- https://imgur.com/a/8ic5pgW -->
+https://imgur.com/a/8ic5pgW 
 # Parts
 ### Required 
 | Item | Count |

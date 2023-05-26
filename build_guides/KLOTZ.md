@@ -71,9 +71,9 @@ The diodes needs to be soldered on the bottomm of the PCB. Pay attention to thei
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GEIGEIGEIST/KLOTZ/raw/main/docs/images/buildguide/diodes_bright.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GEIGEIGEIST/KLOTZ/raw/main/docs/images/buildguide/diodes_bright.svg?raw=true">
-  <img alt="diode orientation" src="https://github.com/GEIGEIGEIST/KLOTZ/raw/main/docs/images/buildguide/diodes_bright.svg?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GEIGEIGEIST/KLOTZ/raw/main/docs/images/buildguide/diodes_bright.svg?raw=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GEIGEIGEIST/KLOTZ/raw/main/docs/images/buildguide/diodes_bright.svg?raw=true"/>
+  <img alt="diode orientation" src="https://github.com/GEIGEIGEIST/KLOTZ/raw/main/docs/images/buildguide/diodes_bright.svg?raw=true"/>
 </picture>
 </p>
 
