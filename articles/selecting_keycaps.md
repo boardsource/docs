@@ -2,20 +2,20 @@
 title: Guide to Selecting Keycaps
 description: A overview Guide to Selecting Keycaps for Your Mechanical Keyboard
 author: Boardsource
-product_link: https://boardsource.xyz/store/5ec9fc5d64caf04f83aa646c
+product_link: https://boardsource.xyz/store/63556905b19995534795a4b7
 subcategory: easy
 draft: false
 tags: 
 - keycaps
 - learning
 banner: https://images.boardsource.xyz/v1_images/ee2a5f60-5cc5-4c21-86a7-d88dcd7f3248.jpg
-thumbnail: https://images.boardsource.xyz/v1_images/66d714f0-50bf-11ec-a609-016ae228379c.jpg
+thumbnail: https://images.boardsource.xyz/v1_images/349462fb-e530-41be-b2c0-66b7f258e46e.jpg
 ---
 
-## A overview Guide to Selecting Keycaps for Your Mechanical Keyboard
+## An overview Guide to Selecting Keycaps for Your Mechanical Keyboard
 
 ## Introduction:
-Keycaps play a crucial role in the overall look, feel, and functionality of your mechanical keyboard. They not only provide tactile feedback but also contribute to the aesthetics of your setup. However, with the vast array of keycap options available in the market, selecting the right set can be a daunting task. In this article, we will provide you with a overview guide to help you navigate the world of keycaps and make an informed decision.
+Keycaps play a crucial role in the overall look, feel, and functionality of your mechanical keyboard. They not only provide tactile feedback but also contribute to the aesthetics of your setup. However, with the vast array of keycap options available in the market, selecting the right set can be a daunting task. In this article, we will provide you with an overview guide to help you navigate the world of keycaps and make an informed decision.
 
 1. **Material**:
 Keycaps are commonly made from different materials such as ABS, PBT, or even premium materials like double-shot PBT. ABS (acrylonitrile butadiene styrene) keycaps offer a smooth and glossy finish, while PBT (polybutylene terephthalate) keycaps have a textured and more durable surface. Consider your personal preferences for texture, durability, and appearance when choosing the material.
