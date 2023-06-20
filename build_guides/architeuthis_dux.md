@@ -1,27 +1,33 @@
+---
+title: Architeuthis dux Solderable Kit Build Guide
+description: How to put together your new Architeuthis dux solderable kit.
+author: Boardsource
+product_link: https://boardsource.xyz/store/5ec9df84c6b834480de6c3d0
+subcategory: medium
+draft: false
+tags: 
+- 30%
+- ergo
+- kit
+banner: https://images.boardsource.xyz/v1_images/16a75fce-87f1-4879-82ad-c8e72a3140ce.jpg
+thumbnail: https://images.boardsource.xyz/v1_images/02e4fba4-907c-49c9-a258-5836d44fd519.jpg
+---
 ### This guide is for *KEYBOARDNAME* PCBs.
 https://i.imgur.com/OBw7vIf.jpg
 # Parts
 ### Required 
 | Item | Count |
 |------|-------|
-| DIODESTYLE Diodes | SWITCHCOUNT |
+| DIODESTYLE Diodes | 30 |
 | PCB | PCBCOUNT |
 | CONTROLLERSTYLE or similar microcontroller | CONTROLLERCOUNT |
 | TRRS Jack | 2 | 
 | TRRS Cable | 1 | 
 | Reset Switch | 2 | 
-| SOCKETSTYLE Hotswap Sockets | SWITCHCOUNT | 
-| SWITCHSTYLE Switches | SWITCHCOUNT | 
-| *KEYCAPSTYLE* Keycaps | SWITCHCOUNT |
+| Choc Hotswap Sockets | 30 | 
+| Choc Switches | 30 | 
+| *Choc* Keycaps | 30 |
 
-### Optional 
-| Item | Count | 
-|------|-------|
-| 128x32 OLED Display | 2 | 
-| SK6812 Mini-E LED | *SWITCHCOUNT* |
-| WS2812B LED | 8 |
-| EC11 Encoder + Knob | 2 |
-| Piezo Buzzer (AST1109MLTRQ) | 2 |
 
 ![components](https://i.imgur.com/ZQ76UcC.jpg)
 
@@ -37,22 +43,6 @@ https://i.imgur.com/OBw7vIf.jpg
 - Note, when working with [MELF](https://en.wikipedia.org/wiki/Metal_electrode_leadless_face) package diodes,
 you may need to reflow and add more solder a couple times before an adequate connection is made.
 
-## LEDs
-**Orientation**: Notched corner/pin facing the pad marked with rectangle. This applies for both SK6812 Mini-E & WS2812B LEDs.
-![sk6812 mini e orientation](LEDORIENTATIONIMG1)
-![ws2812b orientation](LEDORIENTATIONIMG2)
-- Notes: \
-\- This component is heat sensitive. Be cautious and work at a safe temp (~300c). \
-\- It is wise to test the LEDs as you solder then. Consider [soldering your controllers beforehand](#microcontrollers). \
-\- The LED order is somewhat outlined ![LED order](LEDORDERIMG) and should be followed in order when building.
-1. Solder one pad. (it may be easier to solder all 4 pads before placing LED down when installing WS2812B LEDs)
-![sk6812 mini e one pad](LEDCLOSEUPIMG1)
-![ws2812b 4 pads](LEDCLOSEUPIMG2)
-2. While holding LED with tweezers, reflow solder and place LED down on pad.
-![sk6812 mini e placed](LEDCLOSEUPIMG3)
-![ws2812b placed](LEDCLOSEUPIMG4)
-3. Solder remaining pads.
-![sk6812 mini e complete](LEDCLOSEUPIMG5)
 
 ## Hotswap sockets
 1. Solder one pad.
@@ -73,15 +63,6 @@ you may need to reflow and add more solder a couple times before an adequate con
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.
 ![microcontroller finished](https://i.imgur.com/fNjfIpO.jpg)
-
-## OLEDs
-1. Insert headers from front, solder in from the back.
-![Oled placed](OLEDCLOSEUPIMG1)
-2. Solder only one of pins to begin with.
-![oled back one pin soldered](OLEDCLOSEUPIMG2)
-3. While reflowing solder joint, position OLED so that it is level & straight.
-4. Solder remaining pins and clip extra length of pins.
-![oled finished](OLEDCLOSEUPIMG3)
 
 ## Misc.
 ### TRRS jacks
