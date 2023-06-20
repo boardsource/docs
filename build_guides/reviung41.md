@@ -111,9 +111,9 @@ Alternatively, solder the pin headers to the ProMicro.
 
 ### There is a recommended mounting direction for the con-through.
 ----
-Conthrough has a <mark>side with a hole </mark> and <mark> a side without a hole </mark> , and <mark> there is a side with a hole closer to the pin and a side farther from the pin.a
+Conthrough has a  side with a hole   and   a side without a hole   , and   there is a side with a hole closer to the pin and a side farther from the pin.a
 
-When mounting, make sure <mark> **that the two small windows face the same direction , and insert the hole closer to the pin into the ProMicro**
+When mounting, make sure   **that the two small windows face the same direction , and insert the hole closer to the pin into the ProMicro**
 
 Stick the through through the side of the ProMicro chip and solder it from the other side.
 
@@ -162,14 +162,14 @@ First, there is an LED installation pad marked "L1" on the upper right side of t
 
 *In PCB ver1.2, the letter "1" of L1 is hidden by a via (hole), but please refer to the position of the photo.
 
-<MARK> *In PCB ver1.4 and later, all LEDs are placed in the same direction. The orientation is different from the photo. Please follow the silk printed on the PCB.
+  *In PCB ver1.4 and later, all LEDs are placed in the same direction. The orientation is different from the photo. Please follow the silk printed on the PCB.
 
 ![LED SITTING ON PCB](https://reviung.com/wp-content/uploads/2020/01/reviung41-led-1-1280x855.jpg)
 
 
 The LEDs on the back of the PCB are attached in clockwise order from "L1" to "L10".
 "L11" is in the center of the surface and will be soldered last.
-<MARK> Note that the directions of the LEDs are different for [L1/L2/L9/L10 on the top of the PCB], [L3/L8 on the middle], and [L4/L5/L6/L7 on the bottom].
+  Note that the directions of the LEDs are different for [L1/L2/L9/L10 on the top of the PCB], [L3/L8 on the middle], and [L4/L5/L6/L7 on the bottom].
 1. Apply flux to the pads on the backside of the PCB.
 
 2. Next, pre-solder only one of the four pads.
@@ -220,7 +220,7 @@ out of position
 Broken LED
 Forgot to write firmware
 
-**When recovering, <MARK> be sure to remove the USB from the PC before working.**
+**When recovering,   be sure to remove the USB from the PC before working.**
 
 In the case of poor soldering, it may be difficult to see visually.
 Try reheating the solder attached to the LED and pad.
@@ -236,7 +236,7 @@ Slide the LED sideways with a soldering iron and tweezers or lead pliers, or car
 
 When the "L1" LED comes on, next work on the "L2" LED to check if it lights up, and then work in numerical order until "L11". (L11 is on the surface)
 
-<MARK> **Be sure to disconnect the USB before soldering. There is a risk of short circuit.**
+  **Be sure to disconnect the USB before soldering. There is a risk of short circuit.**
 
 ## Soldering the diodes
 ---
@@ -282,7 +282,7 @@ Have tweezers handy as you will need to switch from "thread solder" to tweezers 
 Place a trowel on the socket terminal and the edge of the pad and heat for 2-3 seconds.
 Next, apply "thread solder" from the inside of the terminal to the vicinity of the iron tip, and melt the appropriate amount (small amount) of solder.
 
-Once the solder has permeated the pad surface, remove the solder wire (with the soldering iron still applied), switch to the tweezers, and <mark> release the soldering iron while holding the socket so that it does not float .
+Once the solder has permeated the pad surface, remove the solder wire (with the soldering iron still applied), switch to the tweezers, and   release the soldering iron while holding the socket so that it does not float .
 
 The amount of solder is small enough to penetrate the four corners of the pad (on the PCB side).
 You don't need to use a lot of solder.
@@ -311,9 +311,9 @@ After installation, check from the side and back that the claws of the stabilize
 Attach the ProMicro protective cover to the top plate. (not required)
 
 >NOTE
-<mark> *Tightening the screws too much may crack the acrylic parts. Tighten them properly.
+  *Tightening the screws too much may crack the acrylic parts. Tighten them properly.
 
-><mark>*A protective sheet is attached to the acrylic parts. Peel off the protective sheet before assembling.
+> *A protective sheet is attached to the acrylic parts. Peel off the protective sheet before assembling.
 
 ![acrylic promicro cover](https://reviung.com/wp-content/uploads/2020/01/reviung41-PMcover-1-1280x855.jpg)
 
