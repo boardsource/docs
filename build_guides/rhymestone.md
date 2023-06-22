@@ -2,6 +2,7 @@
 title: Rhymestone Build Guide
 description: How to put together your new Rhymestone solderable kit.
 author: Marksard
+source: https://github.com/marksard/Keyboards/blob/master/rhymestone/documents/rhymestone_buildguide.md
 product_link: https://boardsource.xyz/store/5ecb6aee86879c9a0c22da89
 subcategory: hard
 draft: false
