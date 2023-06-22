@@ -1,23 +1,23 @@
 ---
 title: Rhymestone Build Guide
 description: How to put together your new Rhymestone solderable kit.
-author: Boardsource
+author: Marksard
 product_link: https://boardsource.xyz/store/5ecb6aee86879c9a0c22da89
-subcategory: easy
+subcategory: hard
 draft: false
 tags: 
 - 60%
 - ergo
 - kit
-banner: https://images.boardsource.xyz/v1_images/bed2638f-66b1-4f19-ba1e-28f074f90ae5.jpg
-thumbnail: https://images.boardsource.xyz/v1_images/b702ede0-e39b-4282-96bc-a3e974b25877.jpg
+banner: https://images.boardsource.xyz/v1_images/b702ede0-e39b-4282-96bc-a3e974b25877.jpg
+thumbnail: https://images.boardsource.xyz/v1_images/bed2638f-66b1-4f19-ba1e-28f074f90ae5.jpg 
 
 ---
 # Rhymestone build guide
 
 ## Parts list
 
-![img](_image/20181212-PC120065.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120065.jpg)
 
 ## Kit accessories
 
@@ -96,8 +96,8 @@ If you buy only OLED from AliExpress or Yusha Kobo, there is no pin socket, so p
 　Mtei's [Memo of tools required to make a Helix keyboard kit](https://gist.github.com/mtei/6957107a676ddfa85bde0ae41f8fa849)
 And hdbx's [Tools to prepare when starting your own keyboard](https://hdbx.hateblo.jp/entry/2018/06/01/215401) will also be helpful.
 
-![img](_image/20181212-PC120070.jpg)
-![img](_image/20181213-PC130102.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120070.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130102.jpg)
 
 ## Preparation of promicro
 
@@ -106,7 +106,7 @@ Please install the promicro so that the surface on which it is mounted faces the
  - Promicro's connector reinforcement: [Write QMK_Firmware while preventing promicro's moge](https://qiita.com/hdbx/items/2f3e4ddfcadda2a5578e)
  - Soldering Cons Through Pins: [Helix Beta Build Guide](https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_en.md)
 
-![img](_image/20190131-P1310235.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20190131-P1310235.jpg)
 
 ### Prepare QMK
 This keyboard is programmed to work with keyboard software called QMK. The pre-registered default keymap is actually used by the author, and is devised so that it can be used almost without any inconvenience.
@@ -145,7 +145,7 @@ The side on which the key switch is mounted and faces upward during normal use i
 
 ## Determine the left and right sides of the board
 
-![img](_image/20181212-PC120073.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120073.jpg)
 
 The included board is a reversible board that can be used on either the left or right side. In order not to forget the left and right while creating, write left and right on the mask, and decide that the side you pasted is the front (the side where the key switch will be attached).
 
@@ -154,28 +154,28 @@ The included board is a reversible board that can be used on either the left or 
 ### bend the legs of the diode
 Bend all the legs of the diode before attaching it to the board. Try to find a jig to determine the distance between the holes in the board and bend it. I think it's good to have disposable chopsticks that are still connected.
 
-![img](_image/20181212-PC120071.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120071.jpg)
 
 I was able to use the USB-C to USB-A conversion connector just right, so I bent two or three diodes at once.
 
-![img](_image/20181212-PC120072.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120072.jpg)
 
 ### Soldering the diode
 
 The mounting direction of the diodes is the same for each board, so if you check one and install it, you can install the rest in the same direction. Install the diode with the black strip side facing the square of the diode mounting hole on the board.
 
-![img](_image/diode.png)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/diode.png)
 
-![img](_image/20181212-PC120074_2.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120074_2.jpg)
 
 　Insert the diode from the back side of the board on the left hand side. After inserting, screw the legs of the diode together to temporarily fix it. You can do it easily and quickly by inserting each horizontal row and soldering them together. After soldering, cut the leg from the base.
 
-![img](_image/20181212-PC120074.jpg)
-![img](_image/20181212-PC120075.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120074.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120075.jpg)
 
 Insert each row, solder, and cut repeatedly. Do the same for the right-hand board.
 
-![img](_image/20181212-PC120077.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120077.jpg)
 
 ## *(Optional) Solder the LEDs*
 
@@ -187,29 +187,29 @@ We will install a full-color chip LED on the back of the key switch.
 
 Regarding the connection order of the Rhymestone, it is wired in a spiral from the outside to the inside, starting from the end where the reset button is installed. It is safer and faster to install a few pieces → check the lighting → install a few pieces, so please install them in this order.
 
-![img](_image/ledmap.png)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/ledmap.png)
 
 ### Orient
 Install so that the front side of the LED faces the front side of the board.
 The mounting direction is the same for each board, so if you attach the first one correctly, you can imitate the rest.
 
 left hand side
-![img](_image/20181212-PC120088_2.jpg)
-![img](_image/led_leftback.png)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120088_2.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/led_leftback.png)
 
 right hand side
-![img](_image/20181213-PC130103_2.jpg)
-![img](_image/led_rightback.png)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130103_2.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/led_rightback.png)
 
 ### Pinch the chip LED with tweezers with your left hand and insert it into the hole of the PCB for alignment
 
-![img](_image/20181212-PC120087.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120087.jpg)
 
 ### Apply flux with your right hand while pinching
 
 I didn't pinch it in the photo, but please apply flux while pinching it and move on to the next step.
 
-![img](_image/20181212-PC120091.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120091.jpg)
 
 ### Add some solder to the tip of the soldering iron set at around 220 degrees
 
@@ -218,7 +218,7 @@ Please set the iron tip to around 220 degrees. 270 degrees is high.
 The lands are connected by rubbing them against the lands with a feeling of piling up a little solder.
 First attach one of the four lands so that the land of the board and the land of the chip LED are as horizontal as possible. Once attached, release the tweezers and attach the remaining three in the same way.
 
-![img](_image/20181212-PC120092.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181212-PC120092.jpg)
 
 ### Check LED lighting
 
@@ -231,16 +231,16 @@ I think that the firmware for checking LED operation has been written to the pro
 
 After everything is installed, the soldered area will become sticky with flux, so if you are concerned about it, wipe it off with a flux remover.
 
-![img](_image/20181213-PC130102.jpg)
-![img](_image/20181213-PC130104.jpg)
-![img](_image/20181213-PC130101.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130102.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130104.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130101.jpg)
 
 ## *(Optional) Installing OLED*
 ### PCB land short for OLED mounting
 
 On the front side of the board, I think there are 4 sets of 8 small ■ on the bottom side where the Pro Micro is attached. Short-circuit each pair with solder. The trick is to apply flux to the soldering surface of the board, put a small amount of solder on the soldering iron, apply it to the board, and remove it from the board after applying it for about 4-7 seconds. If it doesn't stick, remove the solder on the soldering iron and try again.
 
-![img](_image/20181213-PC130110.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130110.jpg)
 
 ### Soldering the pin socket/pin header for OLED
 
@@ -251,24 +251,24 @@ In order to install it straight and easily, temporarily hold it with masking tap
 In order to install it straight and easily, temporarily hold it with masking tape so that it sticks straight, then flip it over and solder it.
 　The tactile switch snaps into place, turns over and solders.
 
-![img](_image/20181213-PC130111.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130111.jpg)
 
 ## Snap the switch into the top plate
 
 You can solder the sockets first, but it's quicker and cleaner to fit the switches into the top plate first and then solder them after inserting the sockets into the terminals.
 Please fit your favorite switch into the top plate.
 
-![img](_image/20181213-PC130105.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130105.jpg)
 
 ## Solder the MX socket
 
 First, align the top plate and PCB. Align the central protrusion on the back of the switch with the hole in the PCB and attach it.
 
-![img](_image/20181213-PC130107.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130107.jpg)
 
 　Mount the MX socket by aligning it with the white mark on the silk of the PCB. Make sure that the switch pins are properly inserted into the MX sockets, and snap them all together.
 
-![img](_image/20181213-PC130109.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130109.jpg)
 
 "The rest is soldering." If you install an MX socket, you can replace the switch. There is no point in just piling it up thickly, so let the solder flow firmly between the PCB and the socket.
 Add a generous amount of solder to the tip of the soldering iron, and pour the heat into the socket as if you were attaching it to the PCB that you can see in the gap between the metal fittings of the socket.
@@ -277,12 +277,12 @@ Add a generous amount of solder to the tip of the soldering iron, and pour the h
 
 　Peel off one side of the bottom plate's protective paper, and attach the rubber feet to the removed side. A large one and a small one are included so that they can be tilted as standard, so attach the two smaller ones to the front and the two larger ones to the back.
 
-![img](_image/20181213-PC130114.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130114.jpg)
 
 Remove the rest of the protective paper and use four 8mm spacers and four 5mm screws to screw it to the bottom plate.
 After screwing, insert the 3mm resin spacer into the 8mm spacer. This resin spacer works to prevent the PCB from sinking when replacing the switch.
 
-![img](_image/20181213-PC130116.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130116.jpg)
 
 ## Mounting the protection panel
 
@@ -290,7 +290,7 @@ After screwing, insert the 3mm resin spacer into the 8mm spacer. This resin spac
 Remove both protective papers from the plate and attach it to the spacer attached to the PCB with a black 4mm screw.
 There is a little play, so if it interferes with the keycap when attached, please shift it slightly.
 
-![img](_image/20181213-PC130112.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181213-PC130112.jpg)
 
 ## Installing keycaps
 
@@ -312,7 +312,7 @@ Connect the left and right with a TRRS cable, connect the ProMicro and USB on th
 
 "If everything looks fine after checking, you're done!" Please finish it to one only for you!
 
-![img](_image/20181214-PC140118.jpg)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/20181214-PC140118.jpg)
 
 ## How to replace the keyswitch
 
@@ -322,9 +322,9 @@ Since it is difficult to remove by hand, please use a key switch extraction tool
 
 Remove the top row of key switches, remove the normal protective plate, and install the protective plate for the 30-key challenge.
 　The explanation about the keymap is [here](https://github.com/marksard/qmk_firmware/blob/my_customize/keyboards/rhymestone/keymaps/like_jis_30keys/readme_jp.md)
-![img](_image/30key.png)
+![img](https://github.com/marksard/Keyboards/raw/master/rhymestone/documents/_image/30key.png)
 "At first, I'm not sure where my thumb is, but once you get used to it, it's fun!" Please try the challenge.
 
 ## troubleshooting
 
-Please refer to the [Troubleshooting](../../troubleshooting.md) page.
+Please refer to the [Troubleshooting](https://github.com/marksard/Keyboards/blob/master/troubleshooting.md) page.
