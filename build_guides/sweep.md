@@ -8,20 +8,19 @@ draft: false
 tags: 
 - Sweep
 - split
-banner: https://boardsource.imgix.net/a49277b0-28d9-11ed-8771-8b53559ba1bf.jpg
-thumbnail: https://boardsource.imgix.net/a8107ae0-28d9-11ed-bdbc-ab99b282b508.jpg?auto=format&ixlib=react-9.2.0&q=80&w=200&dpr=1
+banner: https://i.imgur.com/h26Ao6N.jpg
+thumbnail: https://i.imgur.com/Bgjz9pO.png
 ---
 ### This guide is for *Sweep* PCBs.
-https://i.imgur.com/xCyMaet.jpg
-https://i.imgur.com/abjDor6.jpg
-https://i.imgur.com/0yCdYyN.jpg
+![finished keyboard](https://i.imgur.com/xCyMaet.jpg)
+
 # Parts
 ### Required 
 | Item | Count |
 |------|-------|
 | DIODESTYLE Diodes | 34 |
 | PCB | 2 |
-| Blok or similar microcontroller | 2 |
+| Promicro style or similar microcontroller | 2 |
 | TRRS Jack | 2 | 
 | TRRS Cable | 1 | 
 | Reset Switch | 2 | 
@@ -43,15 +42,19 @@ https://i.imgur.com/0yCdYyN.jpg
 - Note, don't hesitate to use a little extra solder, as that will help secure the socket and prevent it from being ripped off.
 
 ## Microcontrollers
-**Orientation**: Both microcontrollers CONTROLLERPLACEMENT.
+**Orientation**: Both microcontrollers face down.
 - Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
 1. Insert headers from front, solder in from the back.
 ![headers inserted](https://i.imgur.com/j0L0UKX.jpg)
-2. Place microcontroller CONTROLLERPLACEMENT. 
+2. Place microcontroller face down. 
 ![microcontroller placed](https://i.imgur.com/WXPr74c.jpg)
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.
 ![microcontroller finished](https://i.imgur.com/NEkz8Hb.jpg)
+5. Bridge pads on the back of the pcb 
+![two pads jumped](https://i.imgur.com/abjDor6.jpg)
+![jumped pads for microcontroller](https://i.imgur.com/0yCdYyN.jpg)
+
 
 
 ## Misc.

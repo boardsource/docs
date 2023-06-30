@@ -9,20 +9,17 @@ tags:
 - 40%
 - ergo
 - kit
-banner: https://boardsource.imgix.net/ea77f3f8-6cc4-4cb4-a801-cf58b5af8fcc.jpg
-thumbnail: https://boardsource.imgix.net/3fa9c28c-70af-4ed4-b3d0-f46b64302461.jpg?auto=format&ixlib=react-9.2.0&q=80&w=300&dpr=1
+banner: https://i.imgur.com/OOQouF0.jpg
+thumbnail: https://i.imgur.com/NjN2XvX.png
 ---
-### This guide is for *EQUALS* PCBs.
-https://i.imgur.com/8h2rClk.jpg
-https://i.imgur.com/zOeROG9.jpg
-https://imgur.com/e1200bbb-cf2e-4a90-ad6f-cce6f1c6265a
+### This guide is for *EQUALS* PCBs
 # Parts
 ### Required 
 | Item | Count |
 |------|-------|
 | DIODESTYLE Diodes | 60 |
-| PCB | PCBCOUNT |
-| CONTROLLERSTYLE or similar microcontroller | CONTROLLERCOUNT |
+| PCB | 1 |
+| Promicro style or similar microcontroller | 1 |
 | Reset Switch | 1 | 
 | SOCKETSTYLE Hotswap Sockets | 60 | 
 | SWITCHSTYLE Switches | 60 | 
@@ -31,14 +28,13 @@ https://imgur.com/e1200bbb-cf2e-4a90-ad6f-cce6f1c6265a
 ### Optional 
 | Item | Count | 
 |------|-------|
-| 128x32 OLED Display | 2 | 
 | SK6812 Mini-E LED | *60* |
 | WS2812B LED | 10 |
-![components](NULLEDCOMPONETSIMAGE)
+![components](https://i.imgur.com/8h2rClk.jpg)
 
 # Soldering
 ## Diodes
-**Orientation**: Black bar facing downwards or towards the footprint indicator.
+**Orientation**: Place the diode on the pcb with the black bar facing the thick white line on the pcb.
 1. Solder one pad.
 ![one pad - diode](https://i.imgur.com/ARJgn51.jpg)
 2. While holding diode with tweezers, reflow solder and place diode down on pad.
@@ -73,33 +69,22 @@ you may need to reflow and add more solder a couple times before an adequate con
 3. Solder other pad.
 ![Hot swap socket finished](https://i.imgur.com/NIIgjbi.jpg)
 - Note, don't hesitate to use a little extra solder, as that will help secure the socket and prevent it from being ripped off.
+- Oreantation of middle cluster of hot swaps 
+![hot swap oreantation](https://i.imgur.com/zOeROG9.jpg)
 
 ## Microcontrollers
-**Orientation**: Both microcontrollers CONTROLLERPLACEMENT.
+**Orientation**: Place controller with the companants faceing down.
 - Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
 1. Insert headers from front, solder in from the back.
 ![headers inserted](https://i.imgur.com/0LIcQwb.jpg)
-2. Place microcontroller CONTROLLERPLACEMENT. 
+2. Place microcontroller face down. 
 ![microcontroller placed](https://i.imgur.com/Z80g7oY.jpg)
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.
 ![microcontroller finished](CONTROLLERCLOSEUPIMG3)
 
-## OLEDs
-1. Insert headers from front, solder in from the back.
-![Oled placed](OLEDCLOSEUPIMG1)
-2. Solder only one of pins to begin with.
-![oled back one pin soldered](OLEDCLOSEUPIMG2)
-3. While reflowing solder joint, position OLED so that it is level & straight.
-4. Solder remaining pins and clip extra length of pins.
-![oled finished](OLEDCLOSEUPIMG3)
 
-## Misc.
-### TRRS jacks
-1. Position TRRS jack on front of PCB and secure with tape.
-![trrs jack placed](TRRSCLOSEUPIMG1)
-2. Apply solder to all four pins.
-![trrs jack finished](TRRSCLOSEUPIMG2)
+## Misc
 ### Reset switches
 1. Solder one pad.
 ![reset switch placed](https://i.imgur.com/wI6NdQN.jpg)

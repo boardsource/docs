@@ -31,7 +31,7 @@ https://imgur.com/a/Crzchlb
 
 
 
-![components](https://imgur.com/1qa41s8.jpg)
+![components](https://i.imgur.com/2boPLsP.jpg)
 
 # Soldering
 ## Diodes

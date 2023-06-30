@@ -27,7 +27,7 @@ https://i.imgur.com/Ba753EB.jpg
 | MX Switches | 34 | 
 | MX Keycaps | 34 |
 
-![components](https://i.imgur.com/KANSwLX.jpg)
+![components](https://i.imgur.com/6ruYhWJ.jpg)
 
 # Soldering
 ## Diodes
@@ -53,11 +53,11 @@ you may need to reflow and add more solder a couple times before an adequate con
 - Note, don't hesitate to use a little extra solder, as that will help secure the socket and prevent it from being ripped off.
 
 ## Microcontrollers
-**Orientation**: Both microcontrollers CONTROLLERPLACEMENT.
+**Orientation**: microcontroller face down.
 - Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
 1. Insert headers from front, solder in from the back.
 ![headers inserted](https://i.imgur.com/sg8zp6c.jpg)
-2. Place microcontroller CONTROLLERPLACEMENT. 
+2. Place microcontroller face down. 
 ![microcontroller placed](https://i.imgur.com/yzRhqMn.jpg)
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.

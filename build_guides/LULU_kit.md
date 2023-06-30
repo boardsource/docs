@@ -12,7 +12,7 @@ tags:
 banner: https://images.boardsource.xyz/v1_images/16a75fce-87f1-4879-82ad-c8e72a3140ce.jpg
 thumbnail: https://images.boardsource.xyz/v1_images/02e4fba4-907c-49c9-a258-5836d44fd519.jpg
 ---
-### This guide is for *LuLusolderable* PCBs.
+### This guide is for *LuLu solderable* PCBs.
 https://i.imgur.com/FOESANU_d.jpg?maxwidth=520&shape=thumb&fidelity=high
 https://i.imgur.com/k9hUQhm_d.jpg?maxwidth=520&shape=thumb&fidelity=high
 # Parts
@@ -21,7 +21,7 @@ https://i.imgur.com/k9hUQhm_d.jpg?maxwidth=520&shape=thumb&fidelity=high
 |------|-------|
 | DIODESTYLE Diodes | 58 |
 | PCB | PCBCOUNT |
-| CONTROLLERSTYLE or similar microcontroller | CONTROLLERCOUNT |
+| Promicro style or similar microcontroller | 1 |
 | TRRS Jack | 2 | 
 | TRRS Cable | 1 | 
 | Reset Switch | 2 | 
@@ -36,11 +36,11 @@ https://i.imgur.com/k9hUQhm_d.jpg?maxwidth=520&shape=thumb&fidelity=high
 | SK6812 Mini-E LED | *58* |
 | SK6821-MINI LED | 8 |
 | EC11 Encoder + Knob | 2 |
-![components](NULLEDCOMPONETSIMAGE)
+![components](https://i.imgur.com/1dlpw9n.jpg)
 
 # Soldering
 ## Diodes
-**Orientation**: Black bar facing downwards or towards the footprint indicator.
+**Orientation**: Black bar facing thick wite line on indicator.
 1. Solder one pad.
 ![one pad - diode](https://i.imgur.com/wy7QK95.jpg)
 2. While holding diode with tweezers, reflow solder and place diode down on pad.
@@ -76,11 +76,11 @@ you may need to reflow and add more solder a couple times before an adequate con
 - Note, don't hesitate to use a little extra solder, as that will help secure the socket and prevent it from being ripped off.
 
 ## Microcontrollers
-**Orientation**: Both microcontrollers CONTROLLERPLACEMENT.
+**Orientation**: Both microcontrollers face down.
 - Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
 1. Insert headers from front, solder in from the back.
 ![headers inserted](https://i.imgur.com/OSXY7sq.jpg)
-2. Place microcontroller CONTROLLERPLACEMENT. 
+2. Place microcontroller face down. 
 ![microcontroller placed](https://i.imgur.com/OSXY7sq.jpg)
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.
@@ -90,7 +90,7 @@ you may need to reflow and add more solder a couple times before an adequate con
 1. Insert headers from front, solder in from the back.
 ![Oled placed](https://i.imgur.com/3GM4vPm.jpg)
 2. Solder only one of pins to begin with.
-![oled back one pin soldered](OLEDCLOSEUPIMG2)
+![oled back one pin soldered](https://i.imgur.com/p1kDtTk.jpg)
 3. While reflowing solder joint, position OLED so that it is level & straight.
 4. Solder remaining pins and clip extra length of pins.
 ![oled finished](https://i.imgur.com/cmdR9DU.jpg)
