@@ -9,19 +9,19 @@ tags:
 - 30%
 - ergo
 - kit
-banner: https://images.boardsource.xyz/v1_images/16a75fce-87f1-4879-82ad-c8e72a3140ce.jpg
-thumbnail: https://images.boardsource.xyz/v1_images/02e4fba4-907c-49c9-a258-5836d44fd519.jpg
+banner: https://i.imgur.com/8zi3Gt9.jpg
+thumbnail: https://i.imgur.com/c7dVmmF.png
 ---
-### This guide is for *KEYBOARDNAME* PCBs.
+### This guide is for *arachno* PCBs.
 https://i.imgur.com/8zi3Gt9.jpg
 # Parts
 ### Required 
 | Item | Count |
 |------|-------|
 | DIODESTYLE Diodes | 30 |
-| PCB | PCBCOUNT |
-| CONTROLLERSTYLE or similar microcontroller | CONTROLLERCOUNT |
-| Reset Switch | 1 | 
+| PCB | 1 |
+| Seeed Style or similar microcontroller | 1 |
+| Reset Switch | 0 | 
 | Choc Hotswap Sockets | 30 | 
 | Choc Switches | 30 | 
 | *Choc* Keycaps | 30 |
@@ -31,7 +31,7 @@ https://i.imgur.com/8zi3Gt9.jpg
 
 # Soldering
 ## Diodes
-**Orientation**: Black bar facing downwards or towards the footprint indicator.
+**Orientation**: Place the diode with the black bar facing the white closed end of the square.
 1. Solder one pad.
 ![one pad - diode](https://i.imgur.com/B0tFJq5.jpg)
 2. While holding diode with tweezers, reflow solder and place diode down on pad.
@@ -52,24 +52,14 @@ you may need to reflow and add more solder a couple times before an adequate con
 - Note, don't hesitate to use a little extra solder, as that will help secure the socket and prevent it from being ripped off.
 
 ## Microcontrollers
-**Orientation**: Both microcontrollers CONTROLLERPLACEMENT.
+**Orientation**: Place controller with compontants facing up.
 - Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
-1. Insert headers from front, solder in from the back.
+1. Solder one pad
 ![headers inserted](https://i.imgur.com/6DlAxNB.jpg)
-2. Place microcontroller CONTROLLERPLACEMENT. 
+2. Place microcontroller with componants facing up and reflow the soldered pad to secure the controller. 
 ![microcontroller placed](https://i.imgur.com/1tLroev.jpg)
 3. Apply solder to all pins.
-4. Use flush cutters or similar to trim excess from pins on each side.
-![microcontroller finished](CONhttps://i.imgur.com/IsLYdjX.jpgTROLLERCLOSEUPIMG3)
-
-
-## Misc.
-### Reset switches
-1. Solder one pad.
-![reset switch placed](RESETCLOSEUPIMG1)
-2. While holding switch with tweezers, reflow solder and place switch down on pad.
-3. Solder remaining pads.
-![reset switch placed](RESETCLOSEUPIMG2)
+![microcontroller finished](https://i.imgur.com/IsLYdjX.jpg)
 
 
 

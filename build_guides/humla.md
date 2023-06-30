@@ -9,8 +9,8 @@ tags:
 - 30%
 - ergo
 - kit
-banner: https://boardsource.imgix.net/Missing
-thumbnail: https://boardsource.imgix.net/Misssing
+banner: https://i.imgur.com/iFoeTYd.jpg
+thumbnail: https://i.imgur.com/Gsbvhhi.png
 ---
 
 ### This guide is for *Humla* PCBs.
@@ -22,9 +22,7 @@ https://imgur.com/a/7rE2mbz
 | Smd Diodes | 36 |
 | PCB | 1 |
 | Pro-Micro or similar microcontroller | 1 |
-| TRRS Jack | 2 | 
-| TRRS Cable | 1 | 
-| Reset Switch | 2 | 
+| Reset Switch | 1 | 
 | Choc Hotswap Sockets | 36 | 
 | Choc Switches | 36 | 
 | Choc Keycaps | 36 |
@@ -35,7 +33,7 @@ https://imgur.com/a/7rE2mbz
 
 # Soldering
 ## Diodes
-**Orientation**: Black bar facing downwards or towards the footprint indicator.
+**Orientation**: place the diode with the black bar towrds the white bar indicator on the pcb.
 1. Solder one pad.
 ![one pad - diode](https://imgur.com/4xkhNLN.jpg)
 2. While holding diode with tweezers, reflow solder and place diode down on pad.

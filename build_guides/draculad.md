@@ -1,3 +1,17 @@
+---
+title: Draculad Solderable Kit Build Guide
+description: How to put together your new Draculad solderable kit.
+author: Boardsource
+product_link: https://boardsource.xyz/store/5ec9df84c6b834480de6c3d0
+subcategory: medium
+draft: false
+tags: 
+- 30%
+- ergo
+- kit
+banner: https://images.boardsource.xyz/v1_images/16a75fce-87f1-4879-82ad-c8e72a3140ce.jpg
+thumbnail: https://images.boardsource.xyz/v1_images/02e4fba4-907c-49c9-a258-5836d44fd519.jpg
+---
 # DracuLad Build guide
 ## What you need
 - 2x pcbs

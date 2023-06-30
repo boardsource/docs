@@ -16,6 +16,7 @@ thumbnail: https://boardsource.imgix.net/6c04847e-817f-4a92-b982-47b5aec9bfdc.jp
 ---
 # Build Guide
 
+
 This is the build guide for Corne Cherry v3.
 [Click here for the Corne Cherry v2 build guide](
 https://github.com/foostan/crkbd/blob/master/corne-cherry/doc/v2/buildguide_en.md).
