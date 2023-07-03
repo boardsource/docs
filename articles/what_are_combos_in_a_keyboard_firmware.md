@@ -21,7 +21,7 @@ Combos are a feature that allows you to assign special functionality to combinat
 
 - **Leader keys**: Leader keys are special keys that start a sequence of key presses that trigger an action. For example, you can define a leader key that activates KC.LWIN when you press KC.LEAD followed by KC.A.
 
-Combos can be useful for saving space on your keyboard, adding functionality to your keys, or creating shortcuts for common tasks. You can define combos to listen to any valid key, even internal or functional keys, like HoldTap or LayerTap¹. However, you need to be careful not to create conflicts or ambiguities with your combos, as they may interfere with your normal typing or gaming.
+Combos can be useful for saving space on your keyboard, adding functionality to your keys, or creating shortcuts for common tasks. You can define combos to listen to any valid key, even internal or functional keys, like HoldTap or LayerTap . However, you need to be careful not to create conflicts or ambiguities with your combos, as they may interfere with your normal typing or gaming.
 
 If you want to use combos on your keyboard firmware, you need to check the documentation and configuration options for your specific firmware. Some of the popular keyboard firmwares that support combos are:
 

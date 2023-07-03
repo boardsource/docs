@@ -2,7 +2,7 @@
 
 Mechanical keyboards are keyboards that use physical switches under each key to register keystrokes, unlike membrane keyboards that use electrical contacts. Mechanical keyboards have been around for a long time, but they have gained popularity among gamers, typists and enthusiasts in recent years. Here are some of the benefits of using a mechanical keyboard:
 
-- **Long-lasting**: Mechanical keyboards are more durable than membrane keyboards, as they can withstand up to 50 million keystrokes⁴, compared to 5 million for standard keyboards².
+- **Long-lasting**: Mechanical keyboards are more durable than membrane keyboards, as they can withstand up to 50 million keystrokes⁴, compared to 5 million for standard keyboards .
 - **High stability**: Mechanical keyboards are heavier and sturdier than membrane keyboards, which means they don't slide around or flex when typing or gaming.
 - **High NKRO**: NKRO stands for N-key rollover, which means the keyboard can register multiple simultaneous key presses without ghosting or missing any inputs. Most mechanical keyboards have high NKRO, which is useful for fast typists and gamers who need to execute complex commands.
 - **No wear out**: Mechanical keyboards don't lose their tactile feel or responsiveness over time, unlike membrane keyboards that can become mushy or sticky. The keycaps can also be replaced easily if they get worn out or damaged.
