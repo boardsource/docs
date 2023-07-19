@@ -18,7 +18,6 @@ thumbnail: https://i.imgur.com/Bgjz9pO.png
 ### Required 
 | Item | Count |
 |------|-------|
-| DIODESTYLE Diodes | 34 |
 | PCB | 2 |
 | Promicro style or similar microcontroller | 2 |
 | TRRS Jack | 2 | 
@@ -36,7 +35,7 @@ thumbnail: https://i.imgur.com/Bgjz9pO.png
 1. Solder one pad.
 ![Hot swap socket foot print soldered](https://i.imgur.com/0NiHxI1.jpg)
 2. While holding hotswap socket (fingers are fine), reflow solder and place socket down on pad.
-![Hot swap socket one pin soldered](SOCKETCLhttps://i.imgur.com/eueMfUN.jpgOSEUPIMG2)
+![Hot swap socket one pin soldered](https://i.imgur.com/aJU0Wbm.jpg)
 3. Solder other pad.
 ![Hot swap socket finished](https://i.imgur.com/3T4OOt8.jpg)
 - Note, don't hesitate to use a little extra solder, as that will help secure the socket and prevent it from being ripped off.

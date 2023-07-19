@@ -9,8 +9,8 @@ tags:
 - 30%
 - ergo
 - kit
-banner: https://boardsource.imgix.net/Missing
-thumbnail: https://boardsource.imgix.net/Misssing
+banner: https://i.imgur.com/QQrKQVa.jpg
+thumbnail: https://i.imgur.com/05bTLDm.png
 ---
 
 ### This guide is for *Slab-V* PCBs.
@@ -21,10 +21,8 @@ https://imgur.com/a/Crzchlb
 |------|-------|
 | SMD Diodes | 36 |
 | PCB | 1 |
-| Pro-Micro or similar microcontroller | 2 |
-| TRRS Jack | 2 | 
-| TRRS Cable | 1 | 
-| Reset Switch | 2 | 
+| Pro-Micro or similar microcontroller | 1 |
+| Reset Switch | 1 | 
 | MX Hotswap Sockets | 36 | 
 | MX Switches | 36 | 
 | MX Keycaps | 36 |
@@ -60,20 +58,20 @@ you may need to reflow and add more solder a couple times before an adequate con
 **Orientation**: microcontroller face down.
 - Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
 1. Insert headers from front, solder in from the back.
-![headers inserted](https://imgur.com/HbvlkJG.jpg)
+![headers inserted](https://i.imgur.com/WnskwTu.jpg)
 2. Place microcontroller face down. 
-![microcontroller placed](https://imgur.com/jrOQnpv.jpg)
+![microcontroller placed](https://i.imgur.com/XmPy5PG.jpg)
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.
-![microcontroller finished](https://imgur.com/Qlphzkj.jpg)
+![microcontroller finished](https://i.imgur.com/dSudrie.jpg)
 
 ## Misc.
 ### Reset switches
 1. Solder one pad.
-![reset switch placed](https://imgur.com/wjKfxHU.jpg)
+![reset switch placed](https://i.imgur.com/ASdlNhU.jpg)
 2. While holding switch with tweezers, reflow solder and place switch down on pad.
 3. Solder remaining pads.
-![reset switch placed](https://imgur.com/PXBCfUV.jpg)
+![reset switch placed](https://i.imgur.com/VFgfU0N.jpg)
 
 
 

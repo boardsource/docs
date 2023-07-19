@@ -19,8 +19,8 @@ https://i.imgur.com/k9hUQhm_d.jpg?maxwidth=520&shape=thumb&fidelity=high
 ### Required 
 | Item | Count |
 |------|-------|
-| DIODESTYLE Diodes | 58 |
-| PCB | PCBCOUNT |
+| SMD Diodes | 58 |
+| PCB | 2 |
 | Promicro style or similar microcontroller | 1 |
 | TRRS Jack | 2 | 
 | TRRS Cable | 1 | 

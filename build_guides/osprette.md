@@ -10,8 +10,8 @@ tags:
 - ergo
 - kit
 - mono block
-banner: https://i.imgur.com/KANSwLX.jpg
-thumbnail: https://i.imgur.com/KANSwLX.jpg
+banner: https://i.imgur.com/ZZ4tMHq.jpg
+thumbnail: https://i.imgur.com/1AlKBKg.png
 ---
 # This guide is for *Osprette* PCBs.
 https://i.imgur.com/Ba753EB.jpg
@@ -19,9 +19,9 @@ https://i.imgur.com/Ba753EB.jpg
 ### Required 
 | Item | Count |
 |------|-------|
-| DIODESTYLE Diodes | 34 |
+| SMD Diodes | 34 |
 | PCB | 1 |
-| CONTROLLERSTYLE or similar microcontroller | 1 |
+| Primicro style controller or similar microcontroller | 1 |
 | Reset Switch | 1 | 
 | MX Hotswap Sockets | 34 | 
 | MX Switches | 34 | 
