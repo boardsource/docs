@@ -81,7 +81,7 @@ you may need to reflow and add more solder a couple times before an adequate con
 ![microcontroller placed](https://i.imgur.com/Z80g7oY.jpg)
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.
-![microcontroller finished](CONTROLLERCLOSEUPIMG3)
+![microcontroller finished](https://i.imgur.com/BZrXPIU.jpg)
 
 
 ## Misc
