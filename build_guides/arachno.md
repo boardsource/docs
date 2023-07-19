@@ -18,7 +18,7 @@ https://i.imgur.com/8zi3Gt9.jpg
 ### Required 
 | Item | Count |
 |------|-------|
-| DIODESTYLE Diodes | 30 |
+| SMD Diodes | 30 |
 | PCB | 1 |
 | Seeed Style or similar microcontroller | 1 |
 | Reset Switch | 0 | 

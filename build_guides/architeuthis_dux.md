@@ -17,8 +17,8 @@ thumbnail: https://i.imgur.com/VhvY3Do.png
 ### Required 
 | Item | Count |
 |------|-------|
-| DIODESTYLE Diodes | 30 |
-| PCB | PCBCOU2NT |
+| SMD Diodes | 30 |
+| PCB | 2 |
 | Promicro-style or similar microcontroller | 2 |
 | TRRS Jack | 2 | 
 | TRRS Cable | 1 | 
@@ -46,7 +46,7 @@ thumbnail: https://i.imgur.com/VhvY3Do.png
 - Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
 1. Insert headers from front, solder in from the back.
 ![headers inserted](https://i.imgur.com/qiEeM6d.jpg)
-2. Place microcontroller CONTROLLERPLACEMENT. 
+2. Place microcontroller one component face down and one componant face up. 
 ![microcontroller placed](https://i.imgur.com/5ApcPZW.jpg)
 3. Apply solder to all pins.
 4. Use flush cutters or similar to trim excess from pins on each side.
