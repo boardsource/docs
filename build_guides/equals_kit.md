@@ -97,12 +97,12 @@ you may need to reflow and add more solder a couple times before an adequate con
 ## Firmware
 
 ### QMK
-In qmk this keyboard can be found under QMKKEYBOARDNAME.
+In qmk this keyboard can be found under boardsource/equals/48/avr  or boardsource/equals/60/avr.
 To begin, follow the [QMK setup guide](https://docs.qmk.fm/#/newbs_getting_started). (if working from an existing installation, an [update](https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master-branch) may be needed.) \
 For flashing instructions, see [doc](https://docs.qmk.fm/#/newbs_flashing) or [video](https://www.youtube.com/watch?v=fuBJbdCFF0Q)
 
 ### KMK / PEG
-In Peg or KMK this keyboard can be found under KMKKEYBOARDNAME
+In Peg or KMK this keyboard can be found under boardsource/equals48-kit or boardsource/equals60-kit
 
 Peg can be downloaded [here](https://peg.software/), and the quick start can be seen [here](https://peg.software/docs/Peg_Client/#quick-start-and-testing).
 
