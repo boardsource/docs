@@ -43,7 +43,7 @@ thumbnail: https://i.imgur.com/VhvY3Do.png
 
 ## Microcontrollers
 **Orientation**: Both microcontrollers one component face up and one component face down.
-- Note, it is recommended to flash each microcontroller prior to soldering. See [firmware](#firmware) section for more.
+- Note, it is recommended to flash each microcontroller prior to soldering. See firmware section for more.
 1. Insert headers from front, solder in from the back.
 ![headers inserted](https://i.imgur.com/qiEeM6d.jpg)
 2. Place microcontroller one component face down and one componant face up. 
