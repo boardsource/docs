@@ -17,12 +17,10 @@ thumbnail: https://i.imgur.com/VhvY3Do.png
 ### Required 
 | Item | Count |
 |------|-------|
-| SMD Diodes | 30 |
 | PCB | 2 |
 | Promicro-style or similar microcontroller | 2 |
 | TRRS Jack | 2 | 
-| TRRS Cable | 1 | 
-| Reset Switch | 2 | 
+| TRRS Cable | 1 |  
 | Choc Hotswap Sockets | 30 | 
 | Choc Switches | 30 | 
 | *Choc* Keycaps | 30 |
