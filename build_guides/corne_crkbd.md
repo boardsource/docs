@@ -17,8 +17,8 @@ thumbnail: https://boardsource.imgix.net/6c04847e-817f-4a92-b982-47b5aec9bfdc.jp
 # Build Guide
 
 
-This is the build guide for Corne Cherry v3.
-[Click here for the Corne Cherry v2 build guide](
+This is the build guide for Corne Cherry v3. [Click here for the Corne Cherry v2
+build guide](
 https://github.com/foostan/crkbd/blob/master/corne-cherry/doc/v2/buildguide_en.md).
 
 ## Parts
@@ -58,29 +58,26 @@ https://github.com/foostan/crkbd/blob/master/corne-cherry/doc/v2/buildguide_en.m
 
 ## Firmware preparation
 
-If you build the firmware yourself, it will take some time to set up the environment,
-so it's best to start at the beginning.\
-It is recommended to flash ProMicro's prior to soldering.\
-For more information,
-please see [firmware](https://github.com/foostan/crkbd/blob/master/doc/firmware_en.md).
+If you build the firmware yourself, it will take some time to set up the
+environment, so it's best to start at the beginning.\ It is recommended to flash
+ProMicro's prior to soldering.\ For more information, please see
+[firmware](https://github.com/foostan/crkbd/blob/master/doc/firmware_en.md).
 
 ## Verification
 
-The PCB for Corne Cherry v3 is as follows.
-Make sure it is the same as your PCB.
+The PCB for Corne Cherry v3 is as follows. Make sure it is the same as your PCB.
 
 ![confirm_front](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/confirm_front.jpg?raw=true)
 
 ![confirm_back](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/confirm_back.jpg?raw=true)
 
-The PCB comes with a frame for manufacturing reasons.
-You can fold it by hand to remove it, but if it is difficult,
-make a cut in the joint\* with a cutter or similar,
-to make it easier to remove.
-In addition, the joint can be cleaned with a file.
+The PCB comes with a frame for manufacturing reasons. You can fold it by hand to
+remove it, but if it is difficult, make a cut in the joint\* with a cutter or
+similar, to make it easier to remove. In addition, the joint can be cleaned with
+a file.
 
-\**Joint part: There are a total of 8 parts,
-which are marked in red in the image below.*
+\**Joint part: There are a total of 8 parts, which are marked in red in the
+image below.*
 
 ![confirm_remove_frame](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/confirm_remove_frame.jpg?raw=true)
 
@@ -88,47 +85,44 @@ which are marked in red in the image below.*
 
 ### Diodes
 
-Since SMD parts are very small, fine-tip/reverse-action tweezers are recommended.
+Since SMD parts are very small, fine-tip/reverse-action tweezers are
+recommended.
 
-**The diodes have a specific orientation**, so install with "|" marking on the diode
-facing the "|" on the PCB marking: "|◁"
+**The diodes have a specific orientation**, so install with "|" marking on the
+diode facing the "|" on the PCB marking: "|◁"
 
 ![build_diode](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_diode.jpg?raw=true)
 
-<details>
-<summary>TIPS: Tips for installing SMD parts</summary>
+<details> <summary>TIPS: Tips for installing SMD parts</summary>
 
 Begin with applying solder to only one pad.
 
 ![tips_building_smd_01](https://user-images.githubusercontent.com/736191/54487435-79330280-48d9-11e9-9138-525d8ee68144.jpg?raw=true)
 
-Next, place SMD component while heating solder. At this time,
-it is recommended to use [reverse-action tweezers](https://www.alimed.com/_resources/cache/images/product/70895A_850x480-pad.jpg),
-so that you can hold the SMD part firmly without applying force,
-and concentrate on alignment and soldering instead.
-Also, if the soldering iron is too hot or the solder is touched too long,
-the flux contained in the solder may evaporate and form a poor solder joint,
-but it can be repaired later,
-so at this point you should only care about attaching parts.
-It's okay.
+Next, place SMD component while heating solder. At this time, it is recommended
+to use [reverse-action
+tweezers](https://www.alimed.com/_resources/cache/images/product/70895A_850x480-pad.jpg),
+so that you can hold the SMD part firmly without applying force, and concentrate
+on alignment and soldering instead. Also, if the soldering iron is too hot or
+the solder is touched too long, the flux contained in the solder may evaporate
+and form a poor solder joint, but it can be repaired later, so at this point you
+should only care about attaching parts. It's okay.
 
 ![tips_building_smd_02](https://user-images.githubusercontent.com/736191/54487436-79330280-48d9-11e9-856e-f3f5b9f58414.jpg)
 
-It is okay if the SMD component is not flush with the PCB when viewed from the side.
-If it is floating, press the SMD component down with tweezers or your finger and reheat the solder.
+It is okay if the SMD component is not flush with the PCB when viewed from the
+side. If it is floating, press the SMD component down with tweezers or your
+finger and reheat the solder.
 
 ![tips_building_smd_03](https://user-images.githubusercontent.com/736191/54487437-79330280-48d9-11e9-996d-a578e767c12c.jpg)
 
-Then solder the other contacts.
-Be careful not to apply too much solder,
-as a small amount is sufficient.
-If you have applied too much,
-you can remove it with a suction pump, solder wick,
-or by picking it up with a soldering iron.
+Then solder the other contacts. Be careful not to apply too much solder, as a
+small amount is sufficient. If you have applied too much, you can remove it with
+a suction pump, solder wick, or by picking it up with a soldering iron.
 
-If the amount of solder on the preliminary solder side is small,
-additional soldering is performed, and if it is a heap,
-apply flux from above and heat it to clean it.
+If the amount of solder on the preliminary solder side is small, additional
+soldering is performed, and if it is a heap, apply flux from above and heat it
+to clean it.
 
 ![tips_building_smd_04](https://user-images.githubusercontent.com/736191/54487438-79cb9900-48d9-11e9-9280-dc72a2087307.jpg)
 
@@ -145,7 +139,8 @@ Solder the SK6812MINI-E and WS2812B.
 ![build_led_front_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_front_overview.jpg?raw=true)
 
 All soldering is done from the back side, but the SK6812MINI-E is for Backlight
-(the front side is shining) and the WS2812B is for Undergrow (the back side is shining).
+(the front side is shining) and the WS2812B is for Undergrow (the back side is
+shining).
 
 ![build_led_back_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_back_overview.jpg?raw=true)
 
@@ -154,8 +149,8 @@ All soldering is done from the back side, but the SK6812MINI-E is for Backlight
 First, solder the WS2812B.
 
 Match recessed corner of the LED with marked corner on the PCB as shown below.
-Refer to **TIPS: Tips for installing SMD parts** section above as similar soldering
-procedure is followed. 
+Refer to **TIPS: Tips for installing SMD parts** section above as similar
+soldering procedure is followed.
 
 ![build_led_undergrow](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_undergrow.jpg?raw=true)
 
@@ -167,38 +162,41 @@ WS2812B LED soldering is completed after 12 are installed on left and right.
 
 Then solder the SK6812MINI-E.
 
-Match the notched corner of the LED with the marked corner on the PCB as show below.
-Refer to **TIPS: Tips for installing SMD parts** section above as similar soldering
-procedure is followed. 
-These are more resilient than the SK6812MINI LEDs,
-but still may be damaged if directly exposed to the heat of a soldering iron.
-~320°C seems to be an ok temperature, evne if all four legs are soldered 
+Match the notched corner of the LED with the marked corner on the PCB as show
+below. Refer to **TIPS: Tips for installing SMD parts** section above as similar
+soldering procedure is followed. These are more resilient than the SK6812MINI
+LEDs, but still may be damaged if directly exposed to the heat of a soldering
+iron. ~320°C seems to be an ok temperature, evne if all four legs are soldered
 one after another.
 
 ![build_led_backlight](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_backlight.jpg?raw=true)
 
-SK6812MINI-E LED soldering is completed after 42 are installed on left and right.
+SK6812MINI-E LED soldering is completed after 42 are installed on left and
+right.
 
 ![build_led_back_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_back_overview.jpg?raw=true)
 
 ### TRRS jack, reset switch, pin socket for OLED
 
-Solder the TRRS jack, reset switch (tact switch),
-and OLED pin socket as shown in the picture below.
+Solder the TRRS jack, reset switch (tact switch), and OLED pin socket as shown
+in the picture below.
 
 ![build_trrs_reset_oled](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_trrs_reset_oled.jpg?raw=true)
 
-Since these parts may fall off when soldering, you can affix them with masking tape.
+Since these parts may fall off when soldering, you can affix them with masking
+tape.
 
 ### ProMicro
 
-Solder headers to PCB. Then solder ProMicro to headers, with components facing PCB as shown below.
+Solder headers to PCB. Then solder ProMicro to headers, with components facing
+PCB as shown below.
 
 ![build_promicro](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_promicro.jpg?raw=true)
 
-If you use [spring-loaded pin headers](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/31),
-you do not need to solder the back side.
-Please refer to the [Helix Build Guide](
+If you use [spring-loaded pin
+headers](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/31),
+you do not need to solder the back side. Please refer to the [Helix Build
+Guide](
 https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_en.md#pro-micro)
 for details on how to use spring-loaded pin headers.
 
@@ -206,10 +204,9 @@ for details on how to use spring-loaded pin headers.
 
 ### OLED module
 
-Insert the pin header into the socket first, then solder the OLED module
-to the pin header.
-Note: Solder one pin to OLED module, then reheat solder to confirm OLED module is level,
-then solder remaining pins.
+Insert the pin header into the socket first, then solder the OLED module to the
+pin header. Note: Solder one pin to OLED module, then reheat solder to confirm
+OLED module is level, then solder remaining pins.
 
 ![build_oled](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_oled.jpg?raw=true)
 
@@ -217,16 +214,16 @@ then solder remaining pins.
 
 Now is a good time to test your keyboard to help isolate potential problems.
 
-To check the operation, connect left and right sides with TRRS cable,
-then connect left side to the computer with USB cable.
-If it is done correctly so far, shorting a hotswap socket pad with tweezers will 
-output out a keypress and it will be displayed on the OLED module.
+To check the operation, connect left and right sides with TRRS cable, then
+connect left side to the computer with USB cable. If it is done correctly so
+far, shorting a hotswap socket pad with tweezers will output out a keypress and
+it will be displayed on the OLED module.
 
 ### Switch Sockets
 
-Solder hotswap sockets according to mark on PCB as shown below.
-Refer to **TIPS: Tips for installing SMD parts** section above as similar soldering
-procedure is followed. 
+Solder hotswap sockets according to mark on PCB as shown below. Refer to **TIPS:
+Tips for installing SMD parts** section above as similar soldering procedure is
+followed.
 
 ![build_socket](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_socket.jpg?raw=true)
 
@@ -243,10 +240,10 @@ Attach the OLED protective cover with M2 9mm spacers and M2 screws.
 
 ### Plates & Switches
 
-Place a few key switches into the top plate, then line up and press into PCB socket.
-If you attach all the key switches to the top plate first,
-it will be more difficult to fit them in the PCB sockets all at once.
-So it is recommended to do a few to begin with. 
+Place a few key switches into the top plate, then line up and press into PCB
+socket. If you attach all the key switches to the top plate first, it will be
+more difficult to fit them in the PCB sockets all at once. So it is recommended
+to do a few to begin with.
 
 ![build_top_plate_switches](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_top_plate_switches.jpg?raw=true)
 
@@ -254,7 +251,8 @@ Install the M2 7.5mm spacer and M2 screws on the top plate.
 
 ![build_screws_spacers_front](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_screws_spacers_front.jpg?raw=true)
 
-It is easy to screw the spacer in after inserting it into the hole from the back side.
+It is easy to screw the spacer in after inserting it into the hole from the back
+side.
 
 ![build_screws_spacers_back](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_screws_spacers_back.jpg?raw=true)
 
@@ -269,3 +267,35 @@ Install the rubber feet in the following positions.
 That's it!
 
 ![build_finish](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_finish.jpg?raw=true)
+
+## Firmware
+
+### QMK
+In qmk this keyboard can be found under a_dux. To begin, follow the [QMK setup
+guide](https://docs.qmk.fm/#/newbs_getting_started). (if working from an
+existing installation, an
+[update](https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master-branch)
+may be needed.) \ For flashing instructions, see
+[doc](https://docs.qmk.fm/#/newbs_flashing) or
+[video](https://www.youtube.com/watch?v=fuBJbdCFF0Q)
+
+### KMK / PEG
+In Peg or KMK this keyboard can be found under a_dux
+
+Peg can be downloaded [here](https://peg.software/), and the quick start can be
+seen [here](https://peg.software/docs/Peg_Client/#quick-start-and-testing).
+
+For Kmk can be downloaded [here](https://github.com/KMKfw/kmk_firmware) and the
+quick start can be seen
+[here](http://kmkfw.io/docs/Getting_Started#tldr-quick-start-guide)
+
+Here are some links to other articles that may help you get the most out of your
+new keyboard:
+* Get the most out of your PCB [Unleashing the High-Tech Power of Custom
+  Keyboards](https://new.boardsource.xyz/docs/articles-features)
+* [Keyboard
+  Programing](https://new.boardsource.xyz/docs/guides-keyboard_programing)
+
+## Extra
+For questions, ask in [Boardsource Discord
+server](https://discord.gg/5qpqbgaTYz)
