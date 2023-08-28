@@ -92,8 +92,8 @@ recommended.
 diode facing the "|" on the PCB marking: "|◁"
 
 ![build_diode](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_diode.jpg?raw=true)
-
-<details/> <summary>TIPS: Tips for installing SMD parts</summary>
+TIPS: Tips for installing SMD parts
+<details> TIPS: Tips for installing SMD parts
 
 Begin with applying solder to only one pad.
 
