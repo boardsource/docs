@@ -93,7 +93,7 @@ diode facing the "|" on the PCB marking: "|◁"
 
 ![build_diode](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_diode.jpg?raw=true)
 TIPS: Tips for installing SMD parts
-<details> TIPS: Tips for installing SMD parts
+
 
 Begin with applying solder to only one pad.
 
@@ -126,7 +126,6 @@ to clean it.
 
 ![tips_building_smd_04](https://user-images.githubusercontent.com/736191/54487438-79cb9900-48d9-11e9-9280-dc72a2087307.jpg)
 
-</details>
 
 The diode is completed by soldering 42 pieces in total on the left and right.
 
