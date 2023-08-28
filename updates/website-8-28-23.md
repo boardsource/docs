@@ -17,15 +17,15 @@ We're thrilled to announce the beta release of our brand-new website! After mont
 
 **What's New in the Beta Release?**
 
-This beta version of our website is not just a simple update – it's a complete ground-up reconstruction! We've revamped both the backend and frontend to provide you with a more efficient, user-friendly, and visually appealing platform. Quinn and I has been working tirelessly to bring you a website that aligns with the latest industry standards and offers a smoother navigation experience.
+This beta version of our website is not just a simple update – it's a complete ground-up reconstruction! We've revamped both the backend and frontend to provide you with a more efficient, user-friendly, and visually appealing platform. Quinn and I have been working tirelessly to bring you a website that aligns with the latest industry standards and offers a smoother navigation experience.
 
 **Transitioning from the Old to the New**
 
-We understand that change can sometimes be daunting, which is why we've taken a user-centric approach to this transition. The old website is still fully functional and accessible, allowing you to continue using it without any interruptions. Both the old and new websites are capable of accepting payments, ensuring that your transactions are as seamless as ever. One note when you first log in our new servers should migrate your account. But any future purchases on the old site will note be moved over.
+We understand that change can sometimes be daunting, which is why we've taken a user-centric approach to this transition. The old website is still fully functional and accessible, allowing you to continue using it without any interruptions. Both the old and new websites are capable of accepting payments, ensuring that your transactions are as seamless as ever. Upon your first log in our new servers should migrate your account. However any future purchases on the old site will note be moved over.
 
 **Share Your Feedback and Shape the Future**
 
-We value your input tremendously, and we invite you to be a part of this exciting journey! As a beta user, your feedback will play a crucial role in refining our website further. If you encounter any issues, have suggestions, or simply want to share your thoughts, please take a moment to fill out this feedback form: [Feedback Form](https://forms.gle/38vagMJ1JM4ebXRLA). Your insights will guide us as we make the necessary adjustments to provide you with an exceptional online experience.
+We value your input and invite you to be a part of this exciting journey! As a beta user, your feedback will play a crucial role in refining our website further. If you encounter any issues, have suggestions, or simply want to share your thoughts, please take a moment to fill out this feedback form: [Feedback Form](https://forms.gle/38vagMJ1JM4ebXRLA). Your insights will guide us as we make the necessary adjustments to provide you with an exceptional online experience.
 
 **Payments Handled Securely by Stripe and PayPal**
 
@@ -57,17 +57,20 @@ We understand that circumstances can change, and we want to make sure you have t
 We've revamped our cart sessions to ensure that your shopping experience is as smooth as possible. Now you can add items to your cart from multiple tabs, just like you would on any other modern website. Your cart will stay in sync across different tabs, making shopping more convenient than ever before.
 
 
+## Further reading for those interested in the technology:
+
+
 🔧 **Behind the Scenes: The Tech Stack Powering Our Beta Website** 🔧
 
 We're not just transforming the way our website looks and feels, but also how it's built from the ground up. Our tech stack plays a crucial role in delivering a seamless experience. We wanted to give you a peek into the technologies that are driving the new website:
 
 **1. Backend Magic with Medusa JS**
 
-At the heart of our operations, we're powered by Medusa JS ([Medusa js](https://medusajs.com/)), an exceptional backend framework that's all about enabling seamless e-commerce experiences. Medusa JS provides us with the tools we need to handle everything from order processing to inventory management, ensuring that your interactions with our platform are as smooth as can be. In our last website we built this all our selves, but we have learned that sometimes you don't need to roll everything your self. This will allow us to focus on what's important, instead of wasting time reinventing the wheel.
+At the heart of our operations, we're powered by Medusa JS ([Medusa js](https://medusajs.com/)), an exceptional backend framework that's all about enabling seamless e-commerce experiences. Medusa JS provides us with the tools we need to handle everything from order processing to inventory management, ensuring that your interactions with our platform are as smooth as can be. In our last website we built this all ourselves, but we have learned that sometimes you don't need to roll everything yourself. This will allow us to focus on what's important, instead of wasting time reinventing the wheel.
 
 **2. Frontend Brilliance with Next.js**
 
-Our frontend is built on the robust foundations of Next.js ([https://nextjs.org/](https://nextjs.org/)), a powerful React framework. We chose nextjs for the abality to pick between server rendering and static generation, and for the ease of integrating with other frameworks and libraries.
+Our frontend is built on the robust foundations of Next.js ([https://nextjs.org/](https://nextjs.org/)), a powerful React framework. We chose nextjs for the ability to pick between server rendering and static generation, and for the ease of integrating with other frameworks and libraries.
 
 **3. Search Excellence with Algolia**
 
@@ -79,11 +82,11 @@ Consistency is key, and that's why we've chosen TypeScript as our language of ch
 
 **5. Image Hosting with DigitalOcean Spaces**
 
-Images are worth a thousand words, and they deserve a reliable home. We're using DigitalOcean Spaces ([DigitalOcean Spaces](https://docs.digitalocean.com/products/spaces/)) for image hosting. We made this decision because  we like the stream lined version of AWS buckets that DigitalOcean provides.
+Images are worth a thousand words, and they deserve a reliable home. We're using DigitalOcean Spaces ([DigitalOcean Spaces](https://docs.digitalocean.com/products/spaces/)) for image hosting. We made this decision because  we like the streamlined version of AWS buckets DigitalOcean provides.
 
 **6. Shipping Made Simple with Shippo**
 
-Behind every successful e-commerce transaction is a smooth shipping process. We've continued with Shippo ([Shippo](https://goshippo.com/)) to handle our shipping labels. They have a very simple API making it easy for us to get the products shipped. Sense making our first website Shippo has added some new features that we are also using like orders and packing slips.
+Behind every successful e-commerce transaction is a smooth shipping process. We've continued with Shippo ([Shippo](https://goshippo.com/)) to handle our shipping labels. They have a very simple API making it easy for us to get the products shipped. Since making our first website Shippo has added some new features that we are also using like orders and packing slips.
 
 
 **A Long-Awaited Transformation**
