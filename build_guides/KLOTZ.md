@@ -11,8 +11,8 @@ tags:
 - ergo
 - kit
 - split
-banner: https://boardsource.imgix.net/Missing
-thumbnail: https://boardsource.imgix.net/Misssing
+banner: https://github.com/GEIGEIGEIST/KLOTZ/raw/main/docs/images/KLOTZ_stack.jpg
+thumbnail: https://github.com/GEIGEIGEIST/KLOTZ/raw/main/docs/images/KLOTZ_stack.jpg
 ---
 
 # KLOTZ BUILDGUIDE 

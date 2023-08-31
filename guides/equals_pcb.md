@@ -9,8 +9,8 @@ tags:
 - building
 - programming
 - learning
-banner: https://boardsource.imgix.net/74445bcc-4392-466e-8860-34dc74ba063a.jpg
-thumbnail: https://boardsource.imgix.net/a8ef5531-ebd5-4a97-92d8-9e97e1138c4b.jpg?auto=format&ixlib=react-9.2.0&q=80&w=300&dpr=1
+banner: https://images.boardsource.xyz/equals_smt_pcb_mx_components_replaced.png
+thumbnail: https://images.boardsource.xyz/equals_smt_pcb_mx_components_1_1.png
 ---
 
 
