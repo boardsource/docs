@@ -2,10 +2,13 @@
 title: Flashing keyboards and you
 description: Everything you could want to know about flashing terms.
 author: Boardsource
+product_link: https://www.boardsource.xyz/products/blok
 subcategory: easy
 draft: true
 tags: 
 - learning
+banner: https://boardsource.imgix.net/3f11ba0e-4a8f-4dd6-894d-4e275a073c4c.jpg
+thumbnail: https://boardsource.imgix.net/f2a7c864-074e-406f-9c23-1d26813114e4.jpg?auto=format&ixlib=react-9.2.0&q=80&w=200&dpr=1
 ---
 
  # Welcome to the ultimate flashing terms guide
@@ -14,10 +17,10 @@ tags:
  the basics of flashing keyboards.
 
  Table of contents:
- * [What is flashing](#what-is-flashing)
- * [What is a microcontroller](#what-is-a-microcontroller)
- * [What is a firmware](#what-is-a-firmware)
- * [What is a bootloader](#what-is-a-bootloader)
+ * What is flashing
+ * What is a microcontroller
+ * What is a firmware
+ * What is a bootloader
 
 ## What is flashing
 
