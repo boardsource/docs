@@ -45,7 +45,7 @@ have a preference between them. We'll cover that in a bit.
 
 ### Common generic microcontrollers
 
-Most commom microcontrollers for keyboards are based on the Pro Micro pinout.
+Most common microcontrollers for keyboards are based on the Pro Micro pinout.
 That means that any keyboard that can take a Pro Micro controller can also have
 these installed instead. While the pro micro is the historical choice for
 keyboards, it's quite limited these days, so we have many more options. 
@@ -91,7 +91,7 @@ Now that we know what firmware there is, and we have the file we want, we need
 to actually flash the keyboard! This is where bootloader comes in. There's 2
 real modes for a your keyboard to be in. Acting like a keyboard, and waiting for
 the new code to run your keyboard on. It can't do both at the same time
-(usually, expections are listed later). In order to get your keyboard ready to
+(usually, expectations are listed later). In order to get your keyboard ready to
 get into bootloader, there's a few ways depending on your controller. Most
 keyboards you can quickly double tap the reset button on the keyboard's PCB.
 This will take you into the bootloader. If you have a blok, integrated
