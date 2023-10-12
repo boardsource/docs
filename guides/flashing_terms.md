@@ -3,7 +3,7 @@ title: Flashing keyboards and you
 description: Everything you could want to know about flashing terms.
 author: Boardsource
 subcategory: easy
-draft: false
+draft: true
 tags: 
 - learning
 ---
