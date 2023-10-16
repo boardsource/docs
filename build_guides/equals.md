@@ -2,7 +2,7 @@
 title: Equals Build Guide
 description: How to put together your new Equals keyboard.
 author: Boardsource
-product_link: https://boardsource.xyz/store/5f2ef1b52bf5e8714a60f613
+product_link: https://www.boardsource.xyz/products/equals
 subcategory: easy
 draft: false
 tags: 
