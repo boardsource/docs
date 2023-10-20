@@ -8,8 +8,8 @@ draft: false
 tags: 
 - zmk
 - flashing
-banner: https://boardsource.imgix.net/3f11ba0e-4a8f-4dd6-894d-4e275a073c4c.jpg
-thumbnail: https://boardsource.imgix.net/f2a7c864-074e-406f-9c23-1d26813114e4.jpg?auto=format&ixlib=react-9.2.0&q=80&w=200&dpr=1
+banner: https://images.boardsource.xyz/zmk_gui_guide_16_9.jpg
+thumbnail: https://images.boardsource.xyz/zmk_gui_guide_1_1.jpg
 ---
 
 # Getting started with ZMK on a GUI!
