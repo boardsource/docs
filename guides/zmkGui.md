@@ -58,6 +58,10 @@ tool so it can access and edit your keymap all in the tool.
 
 # Step 4: Getting the files for your keyboard
 
+![](https://images.boardsource.xyz/signal-2023-10-20-120918_002.png)
+
+![](https://images.boardsource.xyz/signal-2023-10-20-120918_003.png)
+
 We have everything we want, and just have to put it on the keyboard. 
 In the editor, there's a save icon at the top. Make sure to hit that, and then
 the button to the right. That will take you back to GitHub to get your firmware,
@@ -66,7 +70,7 @@ jobs completed`, just wait a moment while it does the compiling for you. It may
 take just a minute or two. Once it's all green, you'll see a file in the
 Artifacts section called `firmware.zip`. Click that and download it. That will
 be your firmware ready to go for your board! Make sure to extract the zip into
-UF2 files. Split keyboards get 2 firmwares. One for left, and one for right.
+UF2 files. Split keyboards get 2 firmware. One for left, and one for right.
 Make sure to not mix them up.
 
 # Step 5: Flashing
