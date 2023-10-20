@@ -48,8 +48,8 @@ So now we know the parts involved and how to wire it but lets talk about why.
 
 So lets make a very simple fantasy firmware call it Foo-MK, in our firmware we need to tell the computer when a key is pressed. 
 So we need to figure that out for our selfs, how do we do this we know that we have a n number of row pins and n number of column pins.
-What we will do is loop over every row and for each row pin pull it high ( meaning that we make that pin output 3.3v or 5v ).
-Next we will scan every column pin and see if any of them are being pulled high ( note we did not set them high so they would default to low or 0v). 
+What we will do is loop over every column and for each column pin pull it high ( meaning that we make that pin output 3.3v or 5v ).
+Next we will scan every row pin and see if any of them are being pulled high ( note we did not set them high so they would default to low or 0v). 
 If we then find one that is high we can assume its because the switch at that intersection is being pushed.
 
 Thats all well and good but what does the diode do you my rightly be thinking. Well lets get into an edge case.... well something that may seem like an edge case but happens all the time.
