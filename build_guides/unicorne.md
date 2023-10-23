@@ -9,8 +9,8 @@ tags:
 - 40%
 - ergo
 - kit
-banner: https://images.boardsource.xyz/eq-6.jpg
-thumbnail: https://images.boardsource.xyz/eq-1-1.jpg
+banner: https://images.boardsource.xyz/unicorne_build_guide_16_9.jpg
+thumbnail: https://images.boardsource.xyz/unicorne_build_guide_1_1.jpg
 ---
 ![components](https://images.boardsource.xyz/signal-2023-10-16-144749_003.jpeg)
 ### Required Tools

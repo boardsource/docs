@@ -9,8 +9,8 @@ tags:
 - building
 - programming
 - learning
-banner: https://images.boardsource.xyz/unicorne_pcb_banner.png
-thumbnail: https://images.boardsource.xyz/unicorne_pcb_thumbnail.png
+banner: https://images.boardsource.xyz/unicorne_pcb_guide_16_9.jpg
+thumbnail: https://images.boardsource.xyz/unicorne_pcb_guide_1_1.jpg
 ---
 
 # Introduction
