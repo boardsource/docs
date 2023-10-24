@@ -128,11 +128,8 @@ And of course you can swap over to BS-python and use peg, [here](https://peg.sof
 then you can plug it into peg and let it take care of the rest.
 
 ## Lets Talk About Getting Into The Bootloader
-Being that its flashed With QMK by default you can hold down the top left key as you plug it in, this will put you into bootloader. 
-And there is the classic that will always work of holding down the boot switch and pushing the reset switch then letting go of the boot switch.
+Since it comes preloaded with QMK firmware, you have two convenient methods to access the bootloader. The first is to hold down the top left key while plugging it in. The second is the tried-and-true approach: press and hold the boot switch, then the reset switch, and finally release the boot switch.
 
-The boot and reset switches are labeled on the PCB, but we will stat it here too. 
-Boot is the right most switch rest is the left most switch. 
+You'll find clear labels for the boot and reset switches on the PCB. Just to reiterate, the boot switch is the rightmost one, and the reset switch is the leftmost.
 
-This is a rp2040 keyboard so you never need to use QMK Toolbox. 
-As soon as you get your keyboard into bootloader it will show up as a drive named "RPI-RP2" now you can drag and drop your new keymap onto it.
+This keyboard is equipped with an RP2040 microcontroller, eliminating the need for QMK Toolbox. As soon as you activate the bootloader, your keyboard will appear as a drive named "RPI-RP2," allowing you to effortlessly drag and drop your new keymap onto it.
