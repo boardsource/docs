@@ -43,9 +43,6 @@ The Unicorne PCB boasts a wide range of features that set it apart from other ke
 
 ## Pin Configuration
 
-Here is the pin configuration for the Unicorne PCB:
-
-![Unicorne PCB Pinout](https://images.boardsource.xyz/unicorne_pcb_pinout.jpg)
 
 ### **Left Half**
 
@@ -106,13 +103,13 @@ Here is the pin configuration for the Unicorne PCB:
 The Unicorne PCB is designed to fit seamlessly into compatible cases. Below is a list of cases that are compatible with the Unicorne PCB:
 
 * **MX Cases:**
-    - [Unicorne MX Case](https://boardsource.xyz/store/unicorne-mx)
-    - [FR4 Corne Case](https://boardsource.xyz/store/corne)
+    - [Unicorne MX Case](https://www.boardsource.xyz/products/unicorne)
+    - [FR4 Corne Case](https://www.boardsource.xyz/products/Corne)
 
 * **LP Cases:**
-    - [Unicorne LP Case](https://boardsource.xyz/store/unicorne-lp)
-    - [Corne LP](https://boardsource.xyz/store/technik-case)
-    - [FR4 Corne Case](https://boardsource.xyz/store/corne)
+    - [Unicorne LP Case](https://www.boardsource.xyz/products/unicorne-LP)
+    - [Corne LP](https://www.boardsource.xyz/products/Corne_LP)
+    - [FR4 Corne Case](https://www.boardsource.xyz/products/Corne)
 
 
 ## Getting Creative
@@ -123,5 +120,19 @@ One of the standout features of the Unicorne PCB is the exposed pins that allow 
 
 * **I2C and ADC Lines:** With access to I2C and three ADC lines, you have the flexibility to experiment and create custom functionalities or expand your keyboard's capabilities.
 
-## Notes
+## Notes on Programing
+The Unicorne PCB comes pre flashed with a QMK via map, to be used with [VIA](https://usevia.app/).
+You can use [QMK Configurator](https://config.qmk.fm/#/boardsource/unicorne/LAYOUT_split_3x6_3) to reprogram your keyboard.
 
+And of course you can swap over to BS-python and use peg, [here](https://peg.software/docs/board-update) is guide on how to do that.
+then you can plug it into peg and let it take care of the rest.
+
+## Lets Talk About Getting Into The Bootloader
+Being that its flashed With QMK by default you can hold down the top left key as you plug it in, this will put you into bootloader. 
+And there is the classic that will always work of holding down the boot switch and pushing the reset switch then letting go of the boot switch.
+
+The boot and reset switches are labeled on the PCB, but we will stat it here too. 
+Boot is the right most switch rest is the left most switch. 
+
+This is a rp2040 keyboard so you never need to use QMK Toolbox. 
+As soon as you get your keyboard into bootloader it will show up as a drive named "RPI-RP2" now you can drag and drop your new keymap onto it.
