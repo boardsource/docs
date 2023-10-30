@@ -379,7 +379,7 @@ Install some keycaps and post up a picture on Reddit/discord/Instagram and tag
 ## Firmware
 
 ### QMK
-In qmk this keyboard can be found under boardsource/lulu/avr. To begin, follow
+In qmk this keyboard can be found under boardsource/lulu/rp2040. To begin, follow
 the [QMK setup guide](https://docs.qmk.fm/#/newbs_getting_started). (if working
 from an existing installation, an
 [update](https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master-branch)
