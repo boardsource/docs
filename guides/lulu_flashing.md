@@ -30,8 +30,8 @@ While using Peg, you do not need to use the Boot switch or Reset switch. If for 
 
 The files below come with everything you need, BS-Python (CircuitPython Fork), KMK, all required libs, and the default lulu keymap.
 
-* [Left uf2](https://drive.google.com/file/d/1e3nr5HeoZHaRjcZNLs5dhfeo9tDG6pe-/view?usp=sharing)
-* [Right uf2](https://drive.google.com/file/d/1OS4KthC84QQx49tYhefWclNaoeoOH0vS/view?usp=sharing)
+* [Recent](https://github.com/boardsource/bs-python/releases/download/v1.9.2/boardsouce_lulu_full.uf2)
+* [Latest](https://github.com/boardsource/bs-python/releases)
 
 ## Flashing With VIA
 
