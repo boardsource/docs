@@ -200,6 +200,7 @@ QUESTION: what are combos?
 You can see that the answer is correct and is appropriate for our users it knows to only talk about combos in how they refer to keyboard.
 
 **VS raw Chat GPT:**
+
 **prompt:**` what are combos?`
 
 **answer:**
