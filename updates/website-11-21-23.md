@@ -20,7 +20,7 @@ In the era of advanced technology, integrating Artificial Intelligence (AI) into
 
 Our AI chat system takes a unique approach by analyzing our documentation to find the most suitable information for user queries. If the AI can't provide a direct answer, it gracefully redirects users to our Discord community for further assistance.
 
-### 🚫Warning🚫 this is a very technical document going deep into code if you care great this is the blog post I wanted when we first started down this path.
+### 🚫Warning🚫 this is a very technical document going deep into code if you care great this is the blog post I wanted when we first started down this path. If not your take away can be we are testing an ai chat for the website.
 
 ## How Does It Get Info from Our Docs
 
@@ -108,7 +108,7 @@ metadata: {
 ```
 
 Now you can see mostly the same stuff but a new member called `embedding` these are all of the words as numbers.
-These we can use to do similarity searches using math instead of string, making the whole search very fast and more acurate.
+These we can use to do similarity searches using math instead of string, making the whole search very fast and more accurate.
 
 
 ## How We Generate the Answer
@@ -123,13 +123,17 @@ To generate the final answer, we utilize prompt engineering. This involves takin
 
 ```typescript
 
-export const retriever = async (prompt: string, chatHistory: string[] = []) => { // this is our entry point where we take in the prompt and chat history then build the prompt we will send into the ai and seach our docs database for relevent info for the ai to use as context.
+export const retriever = async (prompt: string, chatHistory: string[] = []) => { // this is our 
+//entry point where we take in the prompt and chat history then build the prompt we will send into 
+//the ai and seach our docs database for relevent info for the ai to use as context.
     const formattedPrompt = await buildProptemplate(prompt, chatHistory)
     const result = await prompAi(formattedPrompt)
     return result
 }
 
-const buildProptemplate = async (prompt: string, chatHistory: string[] = []) => { // this function takes the user's question and the chat history and formats it into a prompt for the AI to use
+const buildProptemplate = async (prompt: string, chatHistory: string[] = []) => { // this function 
+                                                    //takes the user's question and the chat history 
+                                                    //and formats it into a prompt for the AI to use
     const embeddingsModel = new HuggingFaceTransformersEmbeddings({
         modelName: "Xenova/all-MiniLM-L6-v2",
     });
