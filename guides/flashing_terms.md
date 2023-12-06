@@ -1,5 +1,5 @@
 ---
-title: Flashing keyboards and you
+title: Keyboards Flashing Lexicon
 description: Everything you could want to know about flashing terms.
 author: Boardsource
 product_link: https://www.boardsource.xyz/products/blok
@@ -7,8 +7,8 @@ subcategory: easy
 draft: true
 tags: 
 - learning
-banner: https://boardsource.imgix.net/3f11ba0e-4a8f-4dd6-894d-4e275a073c4c.jpg
-thumbnail: https://boardsource.imgix.net/f2a7c864-074e-406f-9c23-1d26813114e4.jpg?auto=format&ixlib=react-9.2.0&q=80&w=200&dpr=1
+banner: https://images.boardsource.xyz/Keyboards_Flashing_programing_Lexicon.jpg
+thumbnail: https://images.boardsource.xyz/Keyboards_Flashing_programing_Lexicon.jpg
 ---
 
  # Welcome to the ultimate flashing terms guide
