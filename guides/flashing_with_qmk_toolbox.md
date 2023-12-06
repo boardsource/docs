@@ -1,5 +1,5 @@
 ---
-title: How To Flash A Keyboard with qmk
+title: How To Flash A Keyboard with QMK tool 
 description: How To Flash A Keyboard using qmk tool box.
 author: Boardsource
 product_link: https://boardsource.xyz/store/628b95b494dfa308a6581622
