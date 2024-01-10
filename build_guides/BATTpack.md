@@ -1,6 +1,6 @@
 ---
-title: BAT Pack Guide
-description: How To Use a BAT Pack
+title: BATT Pack Guide
+description: How To Use a BATT Pack
 author: Boardsource
 product_link: https://www.boardsource.xyz/products/equals
 subcategory: easy
@@ -18,7 +18,7 @@ thumbnail: https://images.boardsource.xyz/eq-1-1.jpg
 ### Required 
 | Item | Count |
 |------|-------|
-| BAT Pack PCB| 1 |
+| BATT Pack PCB| 1 |
 | BLE Controller | 1 |
 | power Switch | 1 |
 | Battery | 1|
@@ -37,11 +37,11 @@ The Soldering on the Bat pack is quite simple. All you need to do to put it toge
 
 
 ### Next solder onto the BLE Controller
-solder diode legs into the BAT Pack PCB.
+solder diode legs into the BATT Pack PCB.
 
 ![Diode Legs](https://images.boardsource.xyz/bat_packpins.jpg)
 
-Then solder the BLE Controller onto the BAT Pack PCB.
+Then solder the BLE Controller onto the BATT Pack PCB.
 
 ![BLE Controller soldered](https://images.boardsource.xyz/bat_pack_done.jpg)
 
