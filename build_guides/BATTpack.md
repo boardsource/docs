@@ -1,6 +1,6 @@
 ---
-title: BATT Pack Guide
-description: How To Use a BATT Pack
+title: Battery Helper Guide
+description: How To Use a Battery Helper
 author: Boardsource
 product_link: https://www.boardsource.xyz/products/equals
 subcategory: easy
@@ -18,16 +18,16 @@ thumbnail: https://images.boardsource.xyz/eq-1-1.jpg
 ### Required 
 | Item | Count |
 |------|-------|
-| BATT Pack PCB| 1 |
+| Battery Helper PCB| 1 |
 | BLE Controller | 1 |
 | power Switch | 1 |
 | Battery | 1|
 
-The Bat Pack is really quite simple and is just a small pcb that gets soldered to the back of your BLE controller in-place of the battery.
+The Battery Helper is really quite simple and is just a small pcb that gets soldered to the back of your BLE controller in-place of the battery.
 and adds a power switch that sits right on top of the USB Port.
 
-## Assembling the Bat Pack
-The Soldering on the Bat pack is quite simple. All you need to do to put it together is solder the SMD slide switch onto the PCB.
+## Assembling the Battery Helper
+The Soldering on the Battery Helper is quite simple. All you need to do to put it together is solder the SMD slide switch onto the PCB.
 
 ![side switch soldered](https://images.boardsource.xyz/batpack2.jpg)
 
@@ -37,11 +37,11 @@ The Soldering on the Bat pack is quite simple. All you need to do to put it toge
 
 
 ### Next solder onto the BLE Controller
-solder diode legs into the BATT Pack PCB.
+solder diode legs into the Battery Helper PCB.
 
 ![Diode Legs](https://images.boardsource.xyz/bat_packpins.jpg)
 
-Then solder the BLE Controller onto the BATT Pack PCB.
+Then solder the BLE Controller onto the Battery Helper PCB.
 
 ![BLE Controller soldered](https://images.boardsource.xyz/bat_pack_done.jpg)
 
