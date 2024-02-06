@@ -2,7 +2,7 @@
 title: Battery Helper Guide
 description: How To Use a Battery Helper
 author: Boardsource
-product_link: https://www.boardsource.xyz/products/equals
+product_link: https://www.boardsource.xyz/products/Battery-Helper
 subcategory: easy
 draft: false
 tags: 
@@ -10,8 +10,8 @@ tags:
 - 60%
 - ergo
 - kit
-banner: https://images.boardsource.xyz/bat_pack_done.jpg
-thumbnail: https://images.boardsource.xyz/eq-1-1.jpg
+banner: https://images.boardsource.xyz/_bh_main_16_9_gallery_1.jpg
+thumbnail: https://images.boardsource.xyz/_bp_main_1_1_hover.jpg
 ---
 ![components](https://images.boardsource.xyz/batpack1.jpg)
 
@@ -51,7 +51,7 @@ From there you can treat your controller as normal but the battery is taken care
 This is not always needed and its better to use the switch placement on your pcb if it supports that.
 If not this is a wonderful option to have.
 
-![Pin out](https://images.boardsource.xyz/bat_pack_pinout.jpg)
+![Pin out](https://images.boardsource.xyz/bh_pinout_diagram_gallery_last.jpg)
 
 
 ## Extra
