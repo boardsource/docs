@@ -56,7 +56,12 @@ integrity by avoiding irreversible modifications.
 
 ## For Equals 48 / 4x12
 Hold the PCB and slowly bend the bottom row until you here it snap, working up
-and down the length of the keyboard.
+and down the length of the keyboard. The safest way  to do this is to find an
+edge of a desk or table, and push down to break the bottom row off. This
+ensures that you won't accidentally damage the board, while breaking, and it
+will take a lot less effort to break
+
+![equals_break](https://images.boardsource.xyz/equals_break.jpeg)
 
 **Note on Technik Case:** For builds in a Technik case Depending on how the snap
 goes you may need to trim / sand the Broken ends for the PCB to fit in the case.
