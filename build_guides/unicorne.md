@@ -124,6 +124,26 @@ new keyboard:
 * [Keyboard
   Programing](https://new.boardsource.xyz/docs/guides-keyboard_programing)
 
+
+## HELP! my mouse drifts
+
+On some only some computers there's a problem where the mouse will drift if one is not installed. To fix this you simply turn turn it off in info.json `"pointing_device": false,`. example below:
+
+```json
+    "features": {
+        "audio": true,
+        "bootmagic": true,
+        "encoder": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "oled": true,
+        "pointing_device": false,
+        "rgb_matrix": true
+    },
+```
+If you dont want to deal with that and want to just use VIA pleases use this [pre compiled via map](https://drive.google.com/file/d/1dpx0R_eZBGQxk64t0K3o6YVKrpSKmA7N/view?usp=sharing) where joysticks have been disabled. **Again this is only a problem on some computers only some of the time (like when charging) and only if you dont have a joystick installed. 
+
 ## Extra
 For questions, ask in [Boardsource Discord
 server](https://discord.gg/5qpqbgaTYz)
