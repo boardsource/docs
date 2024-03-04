@@ -22,7 +22,7 @@ This page is meant to be a reference to flashing your lulu SMT PCB.
 
 Please note that updating and making edits to your keymap is not covered here, but the lulu is designed to work out of the box with Peg. [Click here to learn more about Peg and download](peg.software). 
 
-Please follow this guide in it's entirety, but if you feel you need additional help, feel free to [enter our Discord server](https://discord.gg/b4R25WSZvH) and ask for help under in the #build-help channel. 
+Please follow this guide in it's entirety, but if you feel you need additional help, feel free to [enter our Discord server](https://discord.gg/b4R25WSZvH) and ask for help under in the #hardware-help channel. 
 
 ## Flashing With Defaults
 
@@ -61,4 +61,4 @@ After a few moments, your PCB should appear as a Drive on your computer named  "
 
 With the Drive "RPI-RP2" located on your computer AND the Switch reset to it’s Default position you can drag and drop the Uf2 files onto the drive (onto the PCB). When it is done transferring the file, your PCB will reboot. Because you put the switch back to it’s Default position, when the board restarts it will no longer be in Boot mode and will be good to go. 
 
-If you’ve successfully transferred the Uf2 file, you should see the LEDs turn back on, and a new ‘LULU’ drive mount to your computer. If the transfer fails for any reason, simply repeat the steps, starting back from the beginning with the PCB unplugged from your computer.v
+If you’ve successfully transferred the Uf2 file, you should see the LEDs turn back on, and a new ‘BSPYTHON’ drive mount to your computer. If the transfer fails for any reason, simply repeat the steps, starting back from the beginning with the PCB unplugged from your computer.v
