@@ -71,6 +71,6 @@ If you're still running into issues, then reflow all of the pads again just to r
 
 Exhausted all previous steps without success? You might face a rare hardware issue or PCB defect.
 
-Join our Discord server by following [https://discord.gg/6ZNvRMFj](this invite link) and seek guidance in the build help channel and explain the troubleshooting steps you've taken. Our community can assist in isolating the issue further and helping to test for hardware issues.
+Join our Discord server by following [this invite link](https://discord.gg/6ZNvRMFj) and seek guidance in the build help channel and explain the troubleshooting steps you've taken. Our community can assist in isolating the issue further and helping to test for hardware issues.
 
 Happy typing!
