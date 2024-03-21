@@ -1,5 +1,5 @@
 ---
-title: Single Key Not Working: A Troubleshooting Guide
+title: Single Key Not Working - A Troubleshooting Guide
 description: Learn and follow the steps necessary to diagnose and fix a single key not working on your keyboard.
 author: Boardsource
 product_link: https://www.boardsource.xyz/products/MX_Hot_Swap_Sockets
