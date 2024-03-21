@@ -136,4 +136,4 @@ If you just produced a .hex/.bin please follow [this guide on using QMK TOOL BOX
 
 ## `.uf2`
 
-Otherwise if you just produced a .uf2 please continue to [this guide on how to flash a .uf2](https://www.boardsource.xyz/docs/guides-flashing_a_uf2)
+Otherwise if you just produced a .uf2 please continue to [this guide on how to flash a .uf2](https://www.boardsource.xyz/docs/guides-flashing_a_uf2).
