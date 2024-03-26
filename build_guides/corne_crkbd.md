@@ -270,7 +270,7 @@ That's it!
 ## Firmware
 
 ### QMK
-In qmk this keyboard can be found under a_dux. To begin, follow the [QMK setup
+In qmk this keyboard can be found under crkbd. To begin, follow the [QMK setup
 guide](https://docs.qmk.fm/#/newbs_getting_started). (if working from an
 existing installation, an
 [update](https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master-branch)
@@ -279,7 +279,7 @@ may be needed.) \ For flashing instructions, see
 [video](https://www.youtube.com/watch?v=fuBJbdCFF0Q)
 
 ### KMK / PEG
-In Peg or KMK this keyboard can be found under a_dux
+In Peg or KMK this keyboard can be found under crkbd
 
 Peg can be downloaded [here](https://peg.software/), and the quick start can be
 seen [here](https://peg.software/docs/Peg_Client/#quick-start-and-testing).
