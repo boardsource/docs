@@ -19,7 +19,7 @@ After that you can socket in a mx key switch and keycap, and you are ready to mo
 
 ## Programing 
 ### Uno_IR_KMK
-This repository contains the code (and compiled circuitpython .uf2) to run KMK on the Uno IR.  This includes the keyboard files for easy remapping, as well as a plugin/module to handle the infrared decoding.
+This repository contains the code [(and compiled circuitpython .uf2)](https://github.com/Snipeye/Uno_IR_KMK/raw/main/firmware.uf2) to run KMK on the Uno IR.  This includes the keyboard files for easy remapping, as well as a plugin/module to handle the infrared decoding.
 
 ### IR Decoding
 The IR Decoding module is, to the best of my knowledge, a novel approach: it should handle most IR protocols and deocde consistently - though it may not always decode in the manner intended by the manufacturer.  It has so far been tested with NEC and Sony IR protocols, but is generic enough that I expect it to work with most consumer remotes.
