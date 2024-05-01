@@ -85,7 +85,7 @@ OLED Cover.
 ![components](https://images.boardsource.xyz/unicorne%20(3).gif)
 
 
-Next you can install the acrilyc covers onto the post. 
+Next you can install the acrylic covers onto the post. 
 
 **NOTE:** When installing joysticks you can't have the acrylic cover on the
 joystick.
@@ -99,7 +99,7 @@ Screw it in using the screws included with your case.
 # Step 6 Keycaps.
 
 Throw your favorite keycap set on and enjoy your new keyboard.
-the Unicoren thumb keys are 1.5u keycaps. 
+the Unicorne thumb keys are 1.5u keycaps. 
 
 # Step 7 Tenting.
 
