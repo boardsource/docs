@@ -2,7 +2,7 @@
 title: V3 Corne / CRKBD Build Guide
 description: How to put together your new V3 Corne / CRKBD solderable kit.
 author: foostan
-source: https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_en.md
+source: https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/buildguide_en.md
 product_link: https://boardsource.xyz/store/5ecc0f81eee64242946c988f
 subcategory: medium
 draft: false
@@ -19,7 +19,7 @@ thumbnail: https://boardsource.imgix.net/6c04847e-817f-4a92-b982-47b5aec9bfdc.jp
 
 This is the build guide for Corne Cherry v3. [Click here for the Corne Cherry v2
 build guide](
-https://github.com/foostan/crkbd/blob/master/corne-cherry/doc/v2/buildguide_en.md).
+https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v2/buildguide_en.md).
 
 ## Parts
 
@@ -61,15 +61,15 @@ https://github.com/foostan/crkbd/blob/master/corne-cherry/doc/v2/buildguide_en.m
 If you build the firmware yourself, it will take some time to set up the
 environment, so it's best to start at the beginning.\ It is recommended to flash
 ProMicro's prior to soldering.\ For more information, please see
-[firmware](https://github.com/foostan/crkbd/blob/master/doc/firmware_en.md).
+[firmware](https://github.com/foostan/crkbd/blob/v3-final/doc/firmware_en.md).
 
 ## Verification
 
 The PCB for Corne Cherry v3 is as follows. Make sure it is the same as your PCB.
 
-![confirm_front](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/confirm_front.jpg?raw=true)
+![confirm_front](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/confirm_front.jpg?raw=true)
 
-![confirm_back](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/confirm_back.jpg?raw=true)
+![confirm_back](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/confirm_back.jpg?raw=true)
 
 The PCB comes with a frame for manufacturing reasons. You can fold it by hand to
 remove it, but if it is difficult, make a cut in the joint\* with a cutter or
@@ -79,7 +79,7 @@ a file.
 \**Joint part: There are a total of 8 parts, which are marked in red in the
 image below.*
 
-![confirm_remove_frame](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/confirm_remove_frame.jpg?raw=true)
+![confirm_remove_frame](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/confirm_remove_frame.jpg?raw=true)
 
 ## Assembly
 
@@ -91,7 +91,7 @@ recommended.
 **The diodes have a specific orientation**, so install with "|" marking on the
 diode facing the "|" on the PCB marking: "|◁"
 
-![build_diode](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_diode.jpg?raw=true)
+![build_diode](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_diode.jpg?raw=true)
 TIPS: Tips for installing SMD parts
 
 
@@ -129,19 +129,19 @@ to clean it.
 
 The diode is completed by soldering 42 pieces in total on the left and right.
 
-![build_diode_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_diode_overview.jpg?raw=true)
+![build_diode_overview](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_diode_overview.jpg?raw=true)
 
 ### LED (optional)
 
 Solder the SK6812MINI-E and WS2812B.
 
-![build_led_front_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_front_overview.jpg?raw=true)
+![build_led_front_overview](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_led_front_overview.jpg?raw=true)
 
 All soldering is done from the back side, but the SK6812MINI-E is for Backlight
 (the front side is shining) and the WS2812B is for Undergrow (the back side is
 shining).
 
-![build_led_back_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_back_overview.jpg?raw=true)
+![build_led_back_overview](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_led_back_overview.jpg?raw=true)
 
 #### WS2812B (Undergrow)
 
@@ -151,11 +151,11 @@ Match recessed corner of the LED with marked corner on the PCB as shown below.
 Refer to **TIPS: Tips for installing SMD parts** section above as similar
 soldering procedure is followed.
 
-![build_led_undergrow](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_undergrow.jpg?raw=true)
+![build_led_undergrow](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_led_undergrow.jpg?raw=true)
 
 WS2812B LED soldering is completed after 12 are installed on left and right.
 
-![build_led_undergrow_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_undergrow_overview.jpg?raw=true)
+![build_led_undergrow_overview](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_led_undergrow_overview.jpg?raw=true)
 
 #### SK6812MINI-E (Backlight)
 
@@ -168,19 +168,19 @@ LEDs, but still may be damaged if directly exposed to the heat of a soldering
 iron. ~320°C seems to be an ok temperature, evne if all four legs are soldered
 one after another.
 
-![build_led_backlight](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_backlight.jpg?raw=true)
+![build_led_backlight](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_led_backlight.jpg?raw=true)
 
 SK6812MINI-E LED soldering is completed after 42 are installed on left and
 right.
 
-![build_led_back_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_led_back_overview.jpg?raw=true)
+![build_led_back_overview](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_led_back_overview.jpg?raw=true)
 
 ### TRRS jack, reset switch, pin socket for OLED
 
 Solder the TRRS jack, reset switch (tact switch), and OLED pin socket as shown
 in the picture below.
 
-![build_trrs_reset_oled](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_trrs_reset_oled.jpg?raw=true)
+![build_trrs_reset_oled](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_trrs_reset_oled.jpg?raw=true)
 
 Since these parts may fall off when soldering, you can affix them with masking
 tape.
@@ -190,7 +190,7 @@ tape.
 Solder headers to PCB. Then solder ProMicro to headers, with components facing
 PCB as shown below.
 
-![build_promicro](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_promicro.jpg?raw=true)
+![build_promicro](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_promicro.jpg?raw=true)
 
 If you use [spring-loaded pin
 headers](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/31),
@@ -199,7 +199,7 @@ Guide](
 https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_en.md#pro-micro)
 for details on how to use spring-loaded pin headers.
 
-![build_promicro_conthrough](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_promicro_conthrough.jpg?raw=true)
+![build_promicro_conthrough](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_promicro_conthrough.jpg?raw=true)
 
 ### OLED module
 
@@ -207,7 +207,7 @@ Insert the pin header into the socket first, then solder the OLED module to the
 pin header. Note: Solder one pin to OLED module, then reheat solder to confirm
 OLED module is level, then solder remaining pins.
 
-![build_oled](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_oled.jpg?raw=true)
+![build_oled](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_oled.jpg?raw=true)
 
 ### Operation check
 
@@ -224,18 +224,18 @@ Solder hotswap sockets according to mark on PCB as shown below. Refer to **TIPS:
 Tips for installing SMD parts** section above as similar soldering procedure is
 followed.
 
-![build_socket](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_socket.jpg?raw=true)
+![build_socket](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_socket.jpg?raw=true)
 
 Switch Socket soldering is completed after 42 are installed on left and right.
 
-![build_socket_overview](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_socket_overview.jpg?raw=true)
+![build_socket_overview](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_socket_overview.jpg?raw=true)
 
 ### OLED protective cover
 
 Attach the OLED protective cover with M2 9mm spacers and M2 screws.
 
-![build_oled_plate_front](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_oled_plate_front.jpg?raw=true)
-![build_oled_plate_back](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_oled_plate_back.jpg?raw=true)
+![build_oled_plate_front](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_oled_plate_front.jpg?raw=true)
+![build_oled_plate_back](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_oled_plate_back.jpg?raw=true)
 
 ### Plates & Switches
 
@@ -244,28 +244,28 @@ socket. If you attach all the key switches to the top plate first, it will be
 more difficult to fit them in the PCB sockets all at once. So it is recommended
 to do a few to begin with.
 
-![build_top_plate_switches](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_top_plate_switches.jpg?raw=true)
+![build_top_plate_switches](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_top_plate_switches.jpg?raw=true)
 
 Install the M2 7.5mm spacer and M2 screws on the top plate.
 
-![build_screws_spacers_front](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_screws_spacers_front.jpg?raw=true)
+![build_screws_spacers_front](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_screws_spacers_front.jpg?raw=true)
 
 It is easy to screw the spacer in after inserting it into the hole from the back
 side.
 
-![build_screws_spacers_back](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_screws_spacers_back.jpg?raw=true)
+![build_screws_spacers_back](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_screws_spacers_back.jpg?raw=true)
 
 Attach the bottom plate with M2 screws.
 
-![build_bottom_plate](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_bottom_plate.jpg?raw=true)
+![build_bottom_plate](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_bottom_plate.jpg?raw=true)
 
 Install the rubber feet in the following positions.
 
-![build_cushion_rubbers](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_cushion_rubbers.jpg?raw=true)
+![build_cushion_rubbers](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_cushion_rubbers.jpg?raw=true)
 
 That's it!
 
-![build_finish](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/assets/build_finish.jpg?raw=true)
+![build_finish](https://github.com/foostan/crkbd/blob/v3-final/corne-cherry/doc/v3/assets/build_finish.jpg?raw=true)
 
 ## Firmware
 
