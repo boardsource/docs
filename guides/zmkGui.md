@@ -31,7 +31,7 @@ or integrated if there is no controller that a user solders to the board.
 
 | Nice!Nano/SuperMini                                                       | Blok | Integrated |
 |---------------------------------------------------------------------------|------|------------|
-| x            |   x   |     [Rechtek](https://github.com/boardsource/Rechtek-zmk-config)       |
+| x            |   x   |     [Rechtek](https://github.com/boardsource/Rechtek_zmk_config)       |
 | [Corne](https://github.com/boardsource/zmk-config_corne_nnv2)             |   x   |     x       |
 | [Lily58/Lulu](https://github.com/boardsource/zmk-config_lily58_nnv2)      |   x   |     x       |
 | [Microdox v2](https://github.com/boardsource/zmk-config_microdoxv2_nnv2)  |   x   |     x       |
