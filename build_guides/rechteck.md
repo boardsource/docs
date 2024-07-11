@@ -6,9 +6,8 @@ product_link: https://www.boardsource.xyz/products/unicorne
 subcategory: easy
 draft: false
 tags:
-- 40%
-- ergo
-- kit
+- 60%
+- normal
 banner: https://images.boardsource.xyz/start.jpeg
 thumbnail: https://images.boardsource.xyz/unicorne_build_guide_1_1.jpg
 ---
