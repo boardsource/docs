@@ -173,9 +173,9 @@ Screw all 5 included screws with a screw driver.
 
 Throw the MBK Engage keycap set on and enjoy your new keyboard.
 
-# Step 7 Tenting.
+# Step 7 Tilting.
 
-If you Got tenting legs they are very easy to install and you simply screw them onto the bottom of the case. 
+If you got tenting legs they are very easy to install and you simply screw them onto the bottom of the case. 
 feet on the bottom of the case make sure you dont scratch your case. 
 The tenting legs have been designed to be quick to install and remove for travel
 
