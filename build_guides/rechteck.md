@@ -49,7 +49,7 @@ Please go over this section a few times and you will be able to put them togethe
 **Let's get into it.**
 
 
-like mx stabs choc stabs are made up of 5 parts
+Like MX stabs, choc stabs are made up of 5 parts.
 
 
 * slider x2
@@ -75,7 +75,7 @@ You need to orient your parts as seen in the photo below.
 ![alignment](https://images.boardsource.xyz/stab_or_arrow.jpg)
 
 
-Next you need to push it in from the bottom, the part touching the desk in the paper.
+Next you need to push it in from the bottom (the part touching the desk in the picture).
 ![install 1](https://images.boardsource.xyz/build%20stab.gif)
 
 
@@ -91,11 +91,7 @@ Great, now do it 10 times, and we will move onto installing the wires.
 ![wire install](https://images.boardsource.xyz/stab_install_wire.gif)
 
 
-you see a little tray in the front of the housing.
-This is where the wire will set once its installed.
-The wires just go into the only hole accessible on the slider.
-The wires do not click in; they kinda just rest there.
-Below is a gif of the whole wire install into both sides
+In the front of the housing you will see a little tray. This is where the wire will sit once its installed. The wires just go into the only hole accessible on the slider. The wires do not click in; they kinda just rest there. Below is a gif of the whole wire install into both sides.
 
 
 ![full wire install](https://images.boardsource.xyz/stab_full_build.gif)
@@ -116,7 +112,12 @@ Aligning the stab into the plate is kinda fiddly because the wire does not stay 
 But here is the idea, you install the stab from the back up though the plate, and they click into the plate.
 
 
-It is very important you get them fully clicked in and the wires seated, Also important you do it on the correct side. You want the space bar along the bottom and the top right corner should be a stabilizer.
+It is very important you get them fully clicked in and the wires seated. 
+
+Also important you do it on the correct side. 
+You want to install them into the the back of the plate.
+
+Your plate will be face up if you have the space bar along the bottom and the top right corner should be a stabilizer.
 
 
 ![stab install in plate](https://images.boardsource.xyz/install_stab_plate_1.gif)
@@ -169,9 +170,7 @@ Install the rest of your switches and it should look like this.
 ![all switches installed](https://images.boardsource.xyz/switches%20instlled.jpg)
 
 
-Now you can test your PCB to make sure every switch works if not pop out the
-switch that does not work and check for bent pins.
-Also a good time to check and make sure each stab moves easily. They can be misaligned really easy and will cause your cap to stay pressed.
+Now you can test your PCB to make sure every switch works. If they do not,  pop out the switch that does not work and check for bent pins. Also, this is a good time to check and make sure each stab moves easily. They can be very easily misaligned and will cause your cap to stay pressed if they are.
 
 
 
@@ -186,13 +185,13 @@ The battery is really easy to install. We use a click in connector so just line 
 ![install](https://images.boardsource.xyz/install_bat.gif)
 
 
-Now the connector can only go together one way so if its not going in don't force it and try and flip it over.
+The connector can only go together one way.  If its not going in, don't force it and try and flip it over.
 
 
 ![installed](https://images.boardsource.xyz/bat_clicked.jpg)
 
 
-to help keep your battery in place while you finish your build there is some 3m tape on the back of your battery and you can stick that to the plate.
+To help keep your battery in place while you finish your build there is some 3m tape on the back of your battery and you can stick that to the plate.
 
 
 ![sticking](https://images.boardsource.xyz/stick_bat.gif)
@@ -212,8 +211,8 @@ Make sure your case foam is lined up like the picture below
 
 ![foam](https://images.boardsource.xyz/case_foam.jpg)
 ![ready for install](https://images.boardsource.xyz/install.jpg)
-Once your foam is lined up you can drop your PCB / Plate / Switch assembly into the case.
-To get the clean look for the usb and power switch we made these very tight so it is important you do not force it into place.
+
+Once your foam is lined up you can drop your PCB / Plate / Switch assembly into the case. To get the clean look for the usb and power switch we intentionally made these very tight. It is very important you do not force it into place.
 
 
 * First line up the power switch.
@@ -236,13 +235,7 @@ Throw the MBK Engage keycap set on and enjoy your new keyboard.
 
 # Step 7 Tilting.
 
-If you got tenting legs they are very easy to install and you simply screw them onto the bottom of the case. 
-feet on the bottom of the case make sure you dont scratch your case. 
-The tenting legs have been designed to be quick to install and remove for travel
-
-
-
-
+If you got tenting legs, good news, are very easy to install. You simply screw them onto the bottom of the case feet on the bottom of the case. The tenting legs have been designed to be quick to install and remove for travel.
 
 
 # Step 8 Enjoy.
