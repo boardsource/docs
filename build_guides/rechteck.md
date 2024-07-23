@@ -1,6 +1,6 @@
 ---
-title: Rechtek Build Guide
-description: How to put together your new Rechtek keyboard.
+title: Rechteck Build Guide
+description: How to put together your new Rechteck keyboard.
 author: Boardsource
 product_link: https://www.boardsource.xyz/products/unicorne
 subcategory: easy
@@ -21,8 +21,8 @@ thumbnail: https://images.boardsource.xyz/unicorne_build_guide_1_1.jpg
 ### Required
 | Item | Count |
 |------|-------|
-| Rechtek Case | 1 |
-| Rechtek PCB | 1 |
+| Rechteck Case | 1 |
+| Rechteck PCB | 1 |
 | Switches | 60|
 | Keycaps | 60 |
 
@@ -33,7 +33,7 @@ thumbnail: https://images.boardsource.xyz/unicorne_build_guide_1_1.jpg
 | Tenting Kit  | 1 |
 
 
-This build guide is designed to help you put together your Rechtek keyboard, it is much like many 60% keyboards but being one of the first Choc 60% keyboards there are some things to note that we will pay special attention to.
+This build guide is designed to help you put together your Rechteck keyboard, it is much like many 60% keyboards but being one of the first Choc 60% keyboards there are some things to note that we will pay special attention to.
 
 
 ![components](https://images.boardsource.xyz/components_1.jpg)
@@ -233,6 +233,8 @@ Screw all 5 included screws with a screwdriver.
 
 Throw the MBK Engage keycap set on and enjoy your new keyboard.
 
+**Note:** Your reset button for re-flashing your keyboard is under your space bar.
+
 # Step 7 Tilting.
 
 If you got tenting legs, good news, are very easy to install. You simply screw them onto the bottom of the case feet on the bottom of the case. The tenting legs have been designed to be quick to install and remove for travel.
@@ -241,7 +243,7 @@ If you got tenting legs, good news, are very easy to install. You simply screw t
 # Step 8 Enjoy.
 
 
-Thank you for buying a Rechtek keyboard from Boardsource we really hope you enjoy
+Thank you for buying a Rechteck keyboard from Boardsource we really hope you enjoy
 it.
 
 
@@ -251,12 +253,22 @@ new keyboard:
   Keyboards](https://new.boardsource.xyz/docs/articles-features)
 * [Using the ZMK GUI](https://www.boardsource.xyz/docs/guides-zmkGui)
 
+# Step Bonus Programing notes. 
 
+To get the most out of your new keyboard you will want to remap your keyboard. 
+If you are aware of ZMK and how to configure your keyboard [here is a link to our config repo](https://github.com/boardsource/Rechtek_zmk_config).
+If not we do recommend using [this guide](https://www.boardsource.xyz/docs/guides-zmkGui) to use a website to remap your keyboard.
+In that guide we go over every step you need to reprogram your keyboard. 
+
+If nothing else and you like the default map we recommend re-flashing [this default map](https://images.boardsource.xyz/bs_lp_60-zmk.uf2) because it is up to date.
+
+**Todo so:**
+* Tap the reset key (found under the space bar) twice while plugged into USB.
+* Drag and drop the file downloaded above onto the new drive that has shown up on your computer.
 
 
 ## Extra
-For questions, ask in [Boardsource Discord
-server](https://discord.gg/5qpqbgaTYz)
+For questions, ask in [Boardsource Discord server](https://discord.gg/5qpqbgaTYz)
 
 
 
