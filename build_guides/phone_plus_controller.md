@@ -18,15 +18,10 @@ thumbnail: https://i.imgur.com/rQfJPCx.jpg
 
 ## Kit Contents
 * PCB
-* FR4 Backplate
-* FR4 Plate
 * rp2040 zero controller
-* start select switches
-* Hotswap Sockets (optional)
-* choc switches & keycaps
-* Standoffs
-* M2 Screws
+* Rubber dome switches
 * Rubber Feet
+* Special USB cable
 
 
 # Prep
