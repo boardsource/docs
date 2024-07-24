@@ -7,8 +7,8 @@ subcategory: easy
 draft: false
 tags: 
 - kit
-banner: https://i.imgur.com/dNG37ef.jpeg
-thumbnail: https://i.imgur.com/dNG37ef.jpeg
+banner: https://i.imgur.com/rQfJPCx.jpg
+thumbnail: https://i.imgur.com/rQfJPCx.jpg
 ---
 # Overview
 #### This build guide walks you through how to build the 📱+ 🎮.
