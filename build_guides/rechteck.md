@@ -135,7 +135,7 @@ Another shot from the other side.
 Do this for all 5 stabilized keys and let's install the plate on the pcb.
 
 
->*tip this is a good time to lube your stabs it really helps*
+>*tip: this is a good time to lube your stabs it really helps*
 
 
 ![plate on pcb](https://images.boardsource.xyz/install_plate.gif)
@@ -158,7 +158,7 @@ happens if the switch is miss aligned.)
 
 We recommend doing the stabilized keys first.
 
-
+>*tip: when inserting the switches, ensure they're seated in the plate fully so the plate isn't compressed against the PCB. If the plate is pushed against the PCB subsequent installed switches don't seat fully and stabs can stick*
 
 
 ![install switches](https://images.boardsource.xyz/install_switches.gif)
