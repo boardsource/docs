@@ -53,9 +53,9 @@ Not comfortable with programming? No worries! There are non-programming options 
 
 - **Peg (for KMK)**: Peg is a web-based configurator for KMK firmware. It provides an intuitive interface for customizing keymaps, layers, and macros. Visit [Peg](https://peg.software/) to easily configure your KMK firmware without the need for programming knowledge.
 
-- **VIA (for QMK)**: Can I Use VIA is a user-friendly tool for configuring QMK keyboards. It allows you to remap keys, define macros, and customize various keyboard settings. Check out [Can I Use VIA](https://www.caniusevia.com/) to explore its capabilities and streamline your QMK firmware customization.
+- **VIA (for QMK)**: VIA is a user-friendly tool for configuring QMK keyboards. It allows you to remap keys, define macros, and customize various keyboard settings. Check out [Can I Use VIA](https://www.caniusevia.com/) to explore its capabilities and streamline your QMK firmware customization.
 
-- **Vial (for QMK)**: VIA is a powerful software tool for keyboard customization. It supports QMK compatible keyboards, allowing you to remap keys, create macros, and configure advanced features. Discover the capabilities of [Vial](https://get.vial.today/) and enhance the customization of your keyboard.
+- **Vial (for QMK)**: VIAL is a powerful software tool for keyboard customization. It supports QMK compatible keyboards, allowing you to remap keys, create macros, and configure advanced features. Discover the capabilities of [Vial](https://get.vial.today/) and enhance the customization of your keyboard.
 
 - **QMK Configurator (for QMK)**: QMK Configurator is another web-based tool that simplifies the customization of QMK firmware. It provides an intuitive interface for creating keymaps, configuring layers, and assigning functions to keys. Give it a try at [QMK Configurator](https://config.qmk.fm/#) to easily customize your QMK-based keyboard. 
 
