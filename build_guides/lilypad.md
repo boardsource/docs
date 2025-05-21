@@ -10,7 +10,7 @@ tags:
   - split
   - lily pad
 banner: https://boardsourcev2.nyc3.digitaloceanspaces.com/lily_pad_gallery_layout-1747839010803.jpg
-thumbnail: https://boardsource.imgix.net/a8107ae0-28d9-11ed-bdbc-ab99b282b508.jpg?auto=format&ixlib=react-9.2.0&q=80&w=200&dpr=1
+thumbnail: https://boardsourcev2.nyc3.digitaloceanspaces.com/lily_pad_gallery_box-1747839010805.jpg
 ---
 
 ### Required Tools
